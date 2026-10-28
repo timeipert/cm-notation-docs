@@ -96,7 +96,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:43.100,74.690,4.600,4.320/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:43.100,74.690,4.600,4.320/1200,/0/default.jpg",
-      "lineId": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb"
+      "lineId": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb",
+      "local": "images/Ba_12/i_00a67246-b254-4d2b-82e1-ed0c497bc834.jpg"
     },
     {
       "id": "i_c9757a95-50bf-48b1-a342-95be15ebd9c6",
@@ -109,7 +110,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:56.940,74.900,4.310,4.490/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:56.940,74.900,4.310,4.490/1200,/0/default.jpg",
-      "lineId": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb"
+      "lineId": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb",
+      "local": "images/Ba_12/i_c9757a95-50bf-48b1-a342-95be15ebd9c6.jpg"
     },
     {
       "id": "i_2d1e09ba-41eb-4256-afde-4da2bbfa91a1",
@@ -122,7 +124,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:86.100,12.260,5.710,4.520/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:86.100,12.260,5.710,4.520/1200,/0/default.jpg",
-      "lineId": "r_e66412a3-417c-42be-8d08-c79caed4065e"
+      "lineId": "r_e66412a3-417c-42be-8d08-c79caed4065e",
+      "local": "images/Ba_12/i_2d1e09ba-41eb-4256-afde-4da2bbfa91a1.jpg"
     },
     {
       "id": "i_a8dc01b4-942a-451f-9e91-d78703e7448f",
@@ -135,7 +138,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:48.050,17.070,4.760,4.140/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:48.050,17.070,4.760,4.140/1200,/0/default.jpg",
-      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+      "local": "images/Ba_12/i_a8dc01b4-942a-451f-9e91-d78703e7448f.jpg"
     },
     {
       "id": "i_b62e7348-e1c6-49d7-9789-c1fa80bc7fca",
@@ -148,7 +152,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:50.810,16.120,5.200,4.950/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:50.810,16.120,5.200,4.950/1200,/0/default.jpg",
-      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+      "local": "images/Ba_12/i_b62e7348-e1c6-49d7-9789-c1fa80bc7fca.jpg"
     },
     {
       "id": "i_1908ca4f-72d8-4a4a-89b8-8a399b31cf9c",
@@ -161,7 +166,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:56.950,16.150,4.830,4.740/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:56.950,16.150,4.830,4.740/1200,/0/default.jpg",
-      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+      "local": "images/Ba_12/i_1908ca4f-72d8-4a4a-89b8-8a399b31cf9c.jpg"
     },
     {
       "id": "i_2a51353e-585a-405c-8a53-f3177617c857",
@@ -174,7 +180,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.010,17.720,4.300,3.720/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.010,17.720,4.300,3.720/1200,/0/default.jpg",
-      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+      "local": "images/Ba_12/i_2a51353e-585a-405c-8a53-f3177617c857.jpg"
     },
     {
       "id": "i_acf8cc7f-515a-45f4-a39b-3832589cf9f2",
@@ -187,7 +194,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:63.910,16.070,6.020,4.710/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:63.910,16.070,6.020,4.710/1200,/0/default.jpg",
-      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+      "local": "images/Ba_12/i_acf8cc7f-515a-45f4-a39b-3832589cf9f2.jpg"
     },
     {
       "id": "i_e6615c1a-c004-4bfe-ae72-45404d33a3d5",
@@ -200,7 +208,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:82.780,16.300,5.350,4.620/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:82.780,16.300,5.350,4.620/1200,/0/default.jpg",
-      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+      "local": "images/Ba_12/i_e6615c1a-c004-4bfe-ae72-45404d33a3d5.jpg"
     },
     {
       "id": "i_8694e61c-adfa-4a64-8d62-4996b8e27f94",
@@ -213,7 +222,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:55.580,27.680,6.020,5.460/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:55.580,27.680,6.020,5.460/1200,/0/default.jpg",
-      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc"
+      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc",
+      "local": "images/Ba_12/i_8694e61c-adfa-4a64-8d62-4996b8e27f94.jpg"
     },
     {
       "id": "i_f7a52618-8300-466d-8d24-9fd9314cbd0d",
@@ -226,7 +236,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.920,28.440,5.390,4.380/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.920,28.440,5.390,4.380/1200,/0/default.jpg",
-      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc"
+      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc",
+      "local": "images/Ba_12/i_f7a52618-8300-466d-8d24-9fd9314cbd0d.jpg"
     },
     {
       "id": "i_664aedce-b085-430a-9ab9-15be56a0921f",
@@ -239,7 +250,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:73.830,28.350,5.020,3.680/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:73.830,28.350,5.020,3.680/1200,/0/default.jpg",
-      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc"
+      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc",
+      "local": "images/Ba_12/i_664aedce-b085-430a-9ab9-15be56a0921f.jpg"
     },
     {
       "id": "i_33bae1ab-7e5d-43e9-859d-c0c7d0819ee7",
