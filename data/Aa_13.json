@@ -240,7 +240,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:14.630,33.140,3.650,3.520/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:14.630,33.140,3.650,3.520/1200,/0/default.jpg",
-      "lineId": "r_1790271780449"
+      "lineId": "r_1790271780449",
+      "local": "images/Aa_13/1790271922778.jpg"
     },
     {
       "id": "1790271994610",
@@ -253,7 +254,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:25.990,34.280,2.990,3.310/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:25.990,34.280,2.990,3.310/1200,/0/default.jpg",
-      "lineId": "r_1790271780449"
+      "lineId": "r_1790271780449",
+      "local": "images/Aa_13/1790271994610.jpg"
     },
     {
       "id": "1790272059031",
@@ -266,7 +268,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:38.120,33.310,4.680,3.810/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:38.120,33.310,4.680,3.810/1200,/0/default.jpg",
-      "lineId": "r_1790271780449"
+      "lineId": "r_1790271780449",
+      "local": "images/Aa_13/1790272059031.jpg"
     },
     {
       "id": "i_f14ccd84-d07d-4e39-9fc7-c1a5dc886ea1",
@@ -279,7 +282,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:47.880,34.960,4.040,3.720/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:47.880,34.960,4.040,3.720/1200,/0/default.jpg",
-      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
+      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515",
+      "local": "images/Aa_13/i_f14ccd84-d07d-4e39-9fc7-c1a5dc886ea1.jpg"
     },
     {
       "id": "i_03bb37a1-88b8-4b24-ae7f-f57e1245cae3",
@@ -292,7 +296,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:51.310,34.960,4.660,3.820/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:51.310,34.960,4.660,3.820/1200,/0/default.jpg",
-      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
+      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515",
+      "local": "images/Aa_13/i_03bb37a1-88b8-4b24-ae7f-f57e1245cae3.jpg"
     },
     {
       "id": "i_6393acb8-a236-4161-8e47-01c26e4848c3",
@@ -305,7 +310,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:60.130,34.780,5.740,3.980/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:60.130,34.780,5.740,3.980/1200,/0/default.jpg",
-      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
+      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515",
+      "local": "images/Aa_13/i_6393acb8-a236-4161-8e47-01c26e4848c3.jpg"
     },
     {
       "id": "i_716f2f5a-118b-4720-96ce-d6699dc30540",
@@ -318,7 +324,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:66.120,33.640,3.970,4.100/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:66.120,33.640,3.970,4.100/1200,/0/default.jpg",
-      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
+      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515",
+      "local": "images/Aa_13/i_716f2f5a-118b-4720-96ce-d6699dc30540.jpg"
     },
     {
       "id": "i_5336bf0b-421d-4215-908e-77c6505839a5",
@@ -331,7 +338,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:73.070,32.900,3.680,4.060/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:73.070,32.900,3.680,4.060/1200,/0/default.jpg",
-      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
+      "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515",
+      "local": "images/Aa_13/i_5336bf0b-421d-4215-908e-77c6505839a5.jpg"
     },
     {
       "id": "i_6900f898-c2d3-4785-bff0-8c29d925d2fe",
@@ -344,7 +352,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:39.920,79.800,3.690,4.040/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:39.920,79.800,3.690,4.040/1200,/0/default.jpg",
-      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
+      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca",
+      "local": "images/Aa_13/i_6900f898-c2d3-4785-bff0-8c29d925d2fe.jpg"
     },
     {
       "id": "i_3a4f8571-aaa2-4d1d-901a-1884f9192ce5",
@@ -357,7 +366,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:41.770,81.210,3.960,3.580/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:41.770,81.210,3.960,3.580/1200,/0/default.jpg",
-      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
+      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca",
+      "local": "images/Aa_13/i_3a4f8571-aaa2-4d1d-901a-1884f9192ce5.jpg"
     },
     {
       "id": "i_9e1f60ac-5c42-4d92-b9d3-d4ef313252f4",
@@ -370,7 +380,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:45.150,80.970,3.520,3.970/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:45.150,80.970,3.520,3.970/1200,/0/default.jpg",
-      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
+      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca",
+      "local": "images/Aa_13/i_9e1f60ac-5c42-4d92-b9d3-d4ef313252f4.jpg"
     },
     {
       "id": "i_c70952d5-eae6-4323-9680-eb12de342660",
@@ -383,7 +394,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:68.360,79.420,5.070,3.910/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:68.360,79.420,5.070,3.910/1200,/0/default.jpg",
-      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
+      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca",
+      "local": "images/Aa_13/i_c70952d5-eae6-4323-9680-eb12de342660.jpg"
     },
     {
       "id": "i_c68e25a7-a416-479f-ad5d-7c7c41523094",
@@ -396,7 +408,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:78.410,79.530,3.640,3.830/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:78.410,79.530,3.640,3.830/1200,/0/default.jpg",
-      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
+      "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca",
+      "local": "images/Aa_13/i_c68e25a7-a416-479f-ad5d-7c7c41523094.jpg"
     },
     {
       "id": "i_9bf43dc4-85ea-4ace-b55e-2d84eb0cd5a2",
@@ -409,7 +422,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:20.430,27.220,5.250,4.620/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:20.430,27.220,5.250,4.620/1200,/0/default.jpg",
-      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
+      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b",
+      "local": "images/Aa_13/i_9bf43dc4-85ea-4ace-b55e-2d84eb0cd5a2.jpg"
     },
     {
       "id": "i_2de0ed27-6b8f-4ebf-badb-4e679a1cc7c5",
@@ -422,7 +436,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:23.790,27.190,3.670,3.660/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:23.790,27.190,3.670,3.660/1200,/0/default.jpg",
-      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
+      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b",
+      "local": "images/Aa_13/i_2de0ed27-6b8f-4ebf-badb-4e679a1cc7c5.jpg"
     },
     {
       "id": "i_7304d09e-84da-43fb-aec0-5f0ce63f7a47",
@@ -435,7 +450,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:30.020,27.220,3.930,3.440/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:30.020,27.220,3.930,3.440/1200,/0/default.jpg",
-      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
+      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b",
+      "local": "images/Aa_13/i_7304d09e-84da-43fb-aec0-5f0ce63f7a47.jpg"
     },
     {
       "id": "i_c49aea11-6bac-493e-8580-1c0daa60b402",
@@ -448,7 +464,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:48.930,27.760,4.550,4.110/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:48.930,27.760,4.550,4.110/1200,/0/default.jpg",
-      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
+      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b",
+      "local": "images/Aa_13/i_c49aea11-6bac-493e-8580-1c0daa60b402.jpg"
     },
     {
       "id": "i_a326c807-c72e-4b53-aa2e-b23c9ac2bf85",
@@ -461,7 +478,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:52.920,27.890,4.430,3.790/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:52.920,27.890,4.430,3.790/1200,/0/default.jpg",
-      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
+      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b",
+      "local": "images/Aa_13/i_a326c807-c72e-4b53-aa2e-b23c9ac2bf85.jpg"
     },
     {
       "id": "i_49004064-d99f-428e-aab7-093469267874",
@@ -474,7 +492,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:55.430,28.050,3.780,3.500/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:55.430,28.050,3.780,3.500/1200,/0/default.jpg",
-      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
+      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b",
+      "local": "images/Aa_13/i_49004064-d99f-428e-aab7-093469267874.jpg"
     },
     {
       "id": "i_a16e6105-919c-4f34-af9c-6e6a92a8640b",
@@ -487,7 +506,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:58.910,27.220,4.090,4.430/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:58.910,27.220,4.090,4.430/1200,/0/default.jpg",
-      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
+      "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b",
+      "local": "images/Aa_13/i_a16e6105-919c-4f34-af9c-6e6a92a8640b.jpg"
     },
     {
       "id": "i_e978377e-f4ef-465a-bf91-9505f1448ab0",
@@ -500,7 +520,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_107v.tif/pct:49.520,78.850,3.900,3.660/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_107v.tif/pct:49.520,78.850,3.900,3.660/1200,/0/default.jpg",
-      "lineId": "r_5ec9ebe0-9142-4d21-9f01-122ad2a9ab69"
+      "lineId": "r_5ec9ebe0-9142-4d21-9f01-122ad2a9ab69",
+      "local": "images/Aa_13/i_e978377e-f4ef-465a-bf91-9505f1448ab0.jpg"
     },
     {
       "id": "i_8adc2ec0-bba0-4cfc-bcb4-d9e692512823",
@@ -513,7 +534,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:16.050,14.420,4.660,4.140/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:16.050,14.420,4.660,4.140/1200,/0/default.jpg",
-      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
+      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be",
+      "local": "images/Aa_13/i_8adc2ec0-bba0-4cfc-bcb4-d9e692512823.jpg"
     },
     {
       "id": "i_6302e38d-acaa-4ca4-92d1-df97cbfda75b",
@@ -526,7 +548,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:21.090,13.360,3.930,4.240/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:21.090,13.360,3.930,4.240/1200,/0/default.jpg",
-      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
+      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be",
+      "local": "images/Aa_13/i_6302e38d-acaa-4ca4-92d1-df97cbfda75b.jpg"
     },
     {
       "id": "i_73890b6a-0c10-4460-a50f-51a0c967ed5e",
@@ -539,7 +562,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:23.060,13.000,3.680,3.900/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:23.060,13.000,3.680,3.900/1200,/0/default.jpg",
-      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
+      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be",
+      "local": "images/Aa_13/i_73890b6a-0c10-4460-a50f-51a0c967ed5e.jpg"
     },
     {
       "id": "i_2ce444d4-84d9-4c0e-86cb-cd19ed8ac276",
@@ -552,7 +576,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:25.870,12.910,5.580,3.990/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:25.870,12.910,5.580,3.990/1200,/0/default.jpg",
-      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
+      "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be",
+      "local": "images/Aa_13/i_2ce444d4-84d9-4c0e-86cb-cd19ed8ac276.jpg"
     },
     {
       "id": "i_b53dbde8-128b-4865-9e5f-8da6117c044b",
@@ -565,7 +590,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:28.170,33.720,4.070,4.480/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:28.170,33.720,4.070,4.480/1200,/0/default.jpg",
-      "lineId": "r_05d6e5e9-6feb-4837-a2ee-4c8459aa3b07"
+      "lineId": "r_05d6e5e9-6feb-4837-a2ee-4c8459aa3b07",
+      "local": "images/Aa_13/i_b53dbde8-128b-4865-9e5f-8da6117c044b.jpg"
     },
     {
       "id": "i_822aace1-606b-4c2c-8db4-b00cf8aa516f",
@@ -578,7 +604,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:36.890,35.820,3.730,3.440/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:36.890,35.820,3.730,3.440/1200,/0/default.jpg",
-      "lineId": "r_05d6e5e9-6feb-4837-a2ee-4c8459aa3b07"
+      "lineId": "r_05d6e5e9-6feb-4837-a2ee-4c8459aa3b07",
+      "local": "images/Aa_13/i_822aace1-606b-4c2c-8db4-b00cf8aa516f.jpg"
     },
     {
       "id": "i_c5b08878-3057-457c-9d71-b2440c0390cd",
@@ -591,7 +618,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:15.930,71.330,4.520,4.510/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:15.930,71.330,4.520,4.510/1200,/0/default.jpg",
-      "lineId": "r_84798094-ab46-4b92-8a86-a28de9c520ab"
+      "lineId": "r_84798094-ab46-4b92-8a86-a28de9c520ab",
+      "local": "images/Aa_13/i_c5b08878-3057-457c-9d71-b2440c0390cd.jpg"
     },
     {
       "id": "i_30c9ccc2-0443-494b-957c-5933c70e094f",
@@ -604,7 +632,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:33.970,72.900,4.160,3.750/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:33.970,72.900,4.160,3.750/1200,/0/default.jpg",
-      "lineId": "r_84798094-ab46-4b92-8a86-a28de9c520ab"
+      "lineId": "r_84798094-ab46-4b92-8a86-a28de9c520ab",
+      "local": "images/Aa_13/i_30c9ccc2-0443-494b-957c-5933c70e094f.jpg"
     },
     {
       "id": "i_43378955-92d5-4e23-9d99-4b4e173fcfcd",
@@ -617,7 +646,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:59.030,56.990,3.170,3.160/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:59.030,56.990,3.170,3.160/1200,/0/default.jpg",
-      "lineId": "r_809c4e7f-cf8a-402b-8e49-14c729f1e6e1"
+      "lineId": "r_809c4e7f-cf8a-402b-8e49-14c729f1e6e1",
+      "local": "images/Aa_13/i_43378955-92d5-4e23-9d99-4b4e173fcfcd.jpg"
     },
     {
       "id": "i_c7434f67-374c-4bae-8979-1132370f88ec",
@@ -630,7 +660,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:75.530,55.630,4.120,4.350/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:75.530,55.630,4.120,4.350/1200,/0/default.jpg",
-      "lineId": "r_809c4e7f-cf8a-402b-8e49-14c729f1e6e1"
+      "lineId": "r_809c4e7f-cf8a-402b-8e49-14c729f1e6e1",
+      "local": "images/Aa_13/i_c7434f67-374c-4bae-8979-1132370f88ec.jpg"
     },
     {
       "id": "i_b2a0eb9b-3a3e-4641-99d8-20d8de366189",
@@ -643,7 +674,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:20.280,11.710,3.730,4.480/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:20.280,11.710,3.730,4.480/1200,/0/default.jpg",
-      "lineId": "r_7e6f751a-e9b8-433d-9d97-190e5c6bbdd5"
+      "lineId": "r_7e6f751a-e9b8-433d-9d97-190e5c6bbdd5",
+      "local": "images/Aa_13/i_b2a0eb9b-3a3e-4641-99d8-20d8de366189.jpg"
     },
     {
       "id": "i_67f0bec6-a478-4b60-9132-af215fa519d5",
@@ -656,7 +688,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,11.920,3.770,4.170/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,11.920,3.770,4.170/1200,/0/default.jpg",
-      "lineId": "r_7e6f751a-e9b8-433d-9d97-190e5c6bbdd5"
+      "lineId": "r_7e6f751a-e9b8-433d-9d97-190e5c6bbdd5",
+      "local": "images/Aa_13/i_67f0bec6-a478-4b60-9132-af215fa519d5.jpg"
     },
     {
       "id": "i_0e755e25-e9a7-4b5b-b644-87ed8e0e4f13",
@@ -669,7 +702,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:28.590,17.690,4.420,4.710/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:28.590,17.690,4.420,4.710/1200,/0/default.jpg",
-      "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569"
+      "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569",
+      "local": "images/Aa_13/i_0e755e25-e9a7-4b5b-b644-87ed8e0e4f13.jpg"
     },
     {
       "id": "i_0b929f48-6cc1-4137-a0e6-ba151b30faeb",
@@ -682,7 +716,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:33.010,17.470,4.370,4.430/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:33.010,17.470,4.370,4.430/1200,/0/default.jpg",
-      "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569"
+      "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569",
+      "local": "images/Aa_13/i_0b929f48-6cc1-4137-a0e6-ba151b30faeb.jpg"
     },
     {
       "id": "i_fa098ab2-6d9a-4619-a1f9-cb0e32e32a02",
@@ -695,7 +730,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:36.890,17.850,4.440,4.370/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:36.890,17.850,4.440,4.370/1200,/0/default.jpg",
-      "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569"
+      "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569",
+      "local": "images/Aa_13/i_fa098ab2-6d9a-4619-a1f9-cb0e32e32a02.jpg"
     },
     {
       "id": "i_839d74a7-3d23-4e7c-ba5b-76031a96900c",
@@ -708,7 +744,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:15.120,22.030,4.700,4.520/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:15.120,22.030,4.700,4.520/1200,/0/default.jpg",
-      "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0"
+      "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0",
+      "local": "images/Aa_13/i_839d74a7-3d23-4e7c-ba5b-76031a96900c.jpg"
     },
     {
       "id": "i_26f0dc0a-0fac-4765-b9be-783e286546a5",
@@ -721,7 +758,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,21.970,5.820,4.750/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,21.970,5.820,4.750/1200,/0/default.jpg",
-      "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0"
+      "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0",
+      "local": "images/Aa_13/i_26f0dc0a-0fac-4765-b9be-783e286546a5.jpg"
     },
     {
       "id": "i_2743a9b4-3ed8-4ea7-9049-07879889d5fe",
@@ -734,7 +772,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:57.500,22.750,4.800,4.580/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:57.500,22.750,4.800,4.580/1200,/0/default.jpg",
-      "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0"
+      "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0",
+      "local": "images/Aa_13/i_2743a9b4-3ed8-4ea7-9049-07879889d5fe.jpg"
     },
     {
       "id": "i_7809c102-41ad-47f2-a50e-af8024209bff",
@@ -747,7 +786,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:30.990,22.710,4.030,4.320/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:30.990,22.710,4.030,4.320/1200,/0/default.jpg",
-      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
+      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802",
+      "local": "images/Aa_13/i_7809c102-41ad-47f2-a50e-af8024209bff.jpg"
     },
     {
       "id": "i_ca9b2483-e9c0-4434-bb58-ede9f3706fbf",
@@ -760,7 +800,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:38.260,22.350,5.040,4.490/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:38.260,22.350,5.040,4.490/1200,/0/default.jpg",
-      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
+      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802",
+      "local": "images/Aa_13/i_ca9b2483-e9c0-4434-bb58-ede9f3706fbf.jpg"
     },
     {
       "id": "i_13f2b2d4-9591-47c6-8934-b4d2ed4dfc71",
@@ -773,7 +814,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:53.100,22.320,3.650,4.960/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:53.100,22.320,3.650,4.960/1200,/0/default.jpg",
-      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
+      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802",
+      "local": "images/Aa_13/i_13f2b2d4-9591-47c6-8934-b4d2ed4dfc71.jpg"
     },
     {
       "id": "i_062d0729-132a-405d-aa11-c9f21a8ed390",
@@ -786,7 +828,8 @@
       "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:68.040,22.300,3.820,4.090/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:68.040,22.300,3.820,4.090/1200,/0/default.jpg",
-      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
+      "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802",
+      "local": "images/Aa_13/i_062d0729-132a-405d-aa11-c9f21a8ed390.jpg"
     }
   ],
   "lines": [
