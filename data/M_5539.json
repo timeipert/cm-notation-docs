@@ -74,9 +74,12 @@
       "refId": "21",
       "folio": "(0142)",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:10.580,46.500,9.560,8.910/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:10.580,46.500,9.560,8.910/1200,/0/default.jpg",
-      "lineId": "r_1783950159896"
+      "lineId": "r_1783950159896",
+      "local": "images/M_5539/1783950196790.jpg"
     },
     {
       "id": "1783950207115",
@@ -85,9 +88,12 @@
       "refId": "20",
       "folio": "(0142)",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:18.890,47.450,6.430,7.630/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:18.890,47.450,6.430,7.630/1200,/0/default.jpg",
-      "lineId": "r_1783950159896"
+      "lineId": "r_1783950159896",
+      "local": "images/M_5539/1783950207115.jpg"
     },
     {
       "id": "1783950219280",
@@ -96,9 +102,12 @@
       "refId": "44",
       "folio": "(0142)",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:33.400,47.850,7.240,8.470/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:33.400,47.850,7.240,8.470/1200,/0/default.jpg",
-      "lineId": "r_1783950159896"
+      "lineId": "r_1783950159896",
+      "local": "images/M_5539/1783950219280.jpg"
     },
     {
       "id": "1783950237057",
@@ -107,9 +116,12 @@
       "refId": "41",
       "folio": "(0142)",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:57.230,46.880,7.790,6.540/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:57.230,46.880,7.790,6.540/1200,/0/default.jpg",
-      "lineId": "r_1783950159896"
+      "lineId": "r_1783950159896",
+      "local": "images/M_5539/1783950237057.jpg"
     },
     {
       "id": "1783950295880",
@@ -118,9 +130,12 @@
       "refId": "10b",
       "folio": "(0142)",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:19.980,58.420,6.240,6.820/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:19.980,58.420,6.240,6.820/1200,/0/default.jpg",
-      "lineId": "r_1783950275390"
+      "lineId": "r_1783950275390",
+      "local": "images/M_5539/1783950295880.jpg"
     },
     {
       "id": "1783950309815",
@@ -129,9 +144,12 @@
       "refId": "43",
       "folio": "(0142)",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:40.580,56.800,7.470,8.490/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:40.580,56.800,7.470,8.490/1200,/0/default.jpg",
-      "lineId": "r_1783950275390"
+      "lineId": "r_1783950275390",
+      "local": "images/M_5539/1783950309815.jpg"
     },
     {
       "id": "1783950335405",
@@ -140,9 +158,12 @@
       "refId": "10a",
       "folio": "(0142)",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:52.300,57.960,5.860,6.200/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00142/pct:52.300,57.960,5.860,6.200/1200,/0/default.jpg",
-      "lineId": "r_1783950275390"
+      "lineId": "r_1783950275390",
+      "local": "images/M_5539/1783950335405.jpg"
     },
     {
       "id": "i_cc8247a9-cf4a-434e-a1ca-be76996972e0",
@@ -151,9 +172,12 @@
       "refId": "21",
       "folio": "69r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:10.250,46.540,9.640,6.790/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:10.250,46.540,9.640,6.790/1200,/0/default.jpg",
-      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc"
+      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc",
+      "local": "images/M_5539/i_cc8247a9-cf4a-434e-a1ca-be76996972e0.jpg"
     },
     {
       "id": "i_725ce5c4-f7f8-4fde-963f-100b0ebf502d",
@@ -162,9 +186,12 @@
       "refId": "20",
       "folio": "69r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:17.890,47.550,7.490,7.140/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:17.890,47.550,7.490,7.140/1200,/0/default.jpg",
-      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc"
+      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc",
+      "local": "images/M_5539/i_725ce5c4-f7f8-4fde-963f-100b0ebf502d.jpg"
     },
     {
       "id": "i_6fd7a714-2091-4200-980e-2a4bbf959830",
@@ -173,9 +200,12 @@
       "refId": "44",
       "folio": "69r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:32.410,47.750,8.320,8.850/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:32.410,47.750,8.320,8.850/1200,/0/default.jpg",
-      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc"
+      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc",
+      "local": "images/M_5539/i_6fd7a714-2091-4200-980e-2a4bbf959830.jpg"
     },
     {
       "id": "i_f818ba35-2cc3-4ef4-9d58-d44344a8f503",
@@ -184,9 +214,12 @@
       "refId": "41",
       "folio": "69r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:56.370,47.450,9.290,6.180/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:56.370,47.450,9.290,6.180/1200,/0/default.jpg",
-      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc"
+      "lineId": "r_946d2630-5fd7-4240-a85d-de692a4a47cc",
+      "local": "images/M_5539/i_f818ba35-2cc3-4ef4-9d58-d44344a8f503.jpg"
     },
     {
       "id": "i_850812f2-cac5-49d7-8709-3bcf8111f8aa",
@@ -195,9 +228,12 @@
       "refId": "10b",
       "folio": "69r",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:20.110,58.940,6.100,5.370/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:20.110,58.940,6.100,5.370/1200,/0/default.jpg",
-      "lineId": "r_49f07715-60bf-455a-8e51-5ac48a1bb625"
+      "lineId": "r_49f07715-60bf-455a-8e51-5ac48a1bb625",
+      "local": "images/M_5539/i_850812f2-cac5-49d7-8709-3bcf8111f8aa.jpg"
     },
     {
       "id": "i_ff909fcd-8507-498e-919d-7ec1a76aa8ed",
@@ -206,9 +242,12 @@
       "refId": "43",
       "folio": "69r",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:40.460,57.080,7.570,7.620/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:40.460,57.080,7.570,7.620/1200,/0/default.jpg",
-      "lineId": "r_49f07715-60bf-455a-8e51-5ac48a1bb625"
+      "lineId": "r_49f07715-60bf-455a-8e51-5ac48a1bb625",
+      "local": "images/M_5539/i_ff909fcd-8507-498e-919d-7ec1a76aa8ed.jpg"
     },
     {
       "id": "i_367cb036-e1fe-4531-89b8-9ed115dee2d6",
@@ -217,9 +256,12 @@
       "refId": "10a",
       "folio": "69r",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:52.150,58.380,6.180,5.530/300,/0/default.jpg",
       "zoom": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00042722_00069/pct:52.150,58.380,6.180,5.530/1200,/0/default.jpg",
-      "lineId": "r_49f07715-60bf-455a-8e51-5ac48a1bb625"
+      "lineId": "r_49f07715-60bf-455a-8e51-5ac48a1bb625",
+      "local": "images/M_5539/i_367cb036-e1fe-4531-89b8-9ed115dee2d6.jpg"
     },
     {
       "id": "1783950390171",
@@ -228,6 +270,8 @@
       "refId": "30",
       "folio": "69v",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_1783950369866"
@@ -239,6 +283,8 @@
       "refId": "40",
       "folio": "69v",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_1783950369866"
@@ -250,6 +296,8 @@
       "refId": "42",
       "folio": "69v",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_1783950369866"
@@ -261,6 +309,8 @@
       "refId": "31",
       "folio": "69v",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_1783950369866"
@@ -275,18 +325,22 @@
       "items": [
         {
           "id": "1783950196790",
+          "box": null,
           "points": "13.61,12.15 22.66,12.15 22.66,63.64 13.61,63.64"
         },
         {
           "id": "1783950207115",
+          "box": null,
           "points": "23.56,19.23 28.86,19.23 28.86,61.18 23.56,61.18"
         },
         {
           "id": "1783950219280",
+          "box": null,
           "points": "40.93,22.21 47.2,22.21 47.2,70.42 40.93,70.42"
         },
         {
           "id": "1783950237057",
+          "box": null,
           "points": "69.45,14.98 76.38,14.98 76.38,48.81 69.45,48.81"
         }
       ]
@@ -299,14 +353,17 @@
       "items": [
         {
           "id": "1783950295880",
+          "box": null,
           "points": "24.59,20.87 29.69,20.87 29.69,54.62 24.59,54.62"
         },
         {
           "id": "1783950309815",
+          "box": null,
           "points": "49.39,9.52 55.97,9.52 55.97,54.97 49.39,54.97"
         },
         {
           "id": "1783950335405",
+          "box": null,
           "points": "63.49,17.65 68.14,17.65 68.14,47.06 63.49,47.06"
         }
       ]
@@ -319,18 +376,22 @@
       "items": [
         {
           "id": "i_cc8247a9-cf4a-434e-a1ca-be76996972e0",
+          "box": null,
           "points": "13.89,12.35 23.32,12.35 23.32,48.64 13.89,48.64"
         },
         {
           "id": "i_725ce5c4-f7f8-4fde-963f-100b0ebf502d",
+          "box": null,
           "points": "23.32,20 30.09,20 30.09,58.94 23.32,58.94"
         },
         {
           "id": "i_6fd7a714-2091-4200-980e-2a4bbf959830",
+          "box": null,
           "points": "41.24,21.52 49.04,21.52 49.04,73.41 41.24,73.41"
         },
         {
           "id": "i_f818ba35-2cc3-4ef4-9d58-d44344a8f503",
+          "box": null,
           "points": "70.81,19.24 79.81,19.24 79.81,50.91 70.81,50.91"
         }
       ]
@@ -343,14 +404,17 @@
       "items": [
         {
           "id": "i_850812f2-cac5-49d7-8709-3bcf8111f8aa",
+          "box": null,
           "points": "25.72,22.21 30.72,22.21 30.72,47.59 25.72,47.59"
         },
         {
           "id": "i_ff909fcd-8507-498e-919d-7ec1a76aa8ed",
+          "box": null,
           "points": "50.52,8.21 57.3,8.21 57.3,50.53 50.52,50.53"
         },
         {
           "id": "i_367cb036-e1fe-4531-89b8-9ed115dee2d6",
+          "box": null,
           "points": "64.76,18 69.85,18 69.85,44.58 64.76,44.58"
         }
       ]
@@ -363,18 +427,22 @@
       "items": [
         {
           "id": "1783950390171",
+          "box": null,
           "points": "24.21,34 33.59,34 33.59,74.22 24.21,74.22"
         },
         {
           "id": "1783950418013",
+          "box": null,
           "points": "34.25,30.82 37.53,30.82 37.53,62.69 34.25,62.69"
         },
         {
           "id": "1783950435478",
+          "box": null,
           "points": "51.44,39.96 60.54,39.96 60.54,77.4 51.44,77.4"
         },
         {
           "id": "1783950449046",
+          "box": null,
           "points": "82.8,17.16 93.22,17.16 93.22,51.82 82.8,51.82"
         }
       ]

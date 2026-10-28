@@ -236,6 +236,8 @@
       "refId": "81",
       "folio": "8r",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:14.630,33.140,3.650,3.520/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:14.630,33.140,3.650,3.520/1200,/0/default.jpg",
       "lineId": "r_1790271780449"
@@ -247,6 +249,8 @@
       "refId": "10a",
       "folio": "8r",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:25.990,34.280,2.990,3.310/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:25.990,34.280,2.990,3.310/1200,/0/default.jpg",
       "lineId": "r_1790271780449"
@@ -258,6 +262,8 @@
       "refId": "13",
       "folio": "8r",
       "line": "Line 6",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:38.120,33.310,4.680,3.810/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_008r.tif/pct:38.120,33.310,4.680,3.810/1200,/0/default.jpg",
       "lineId": "r_1790271780449"
@@ -269,6 +275,8 @@
       "refId": "12",
       "folio": "49v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:47.880,34.960,4.040,3.720/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:47.880,34.960,4.040,3.720/1200,/0/default.jpg",
       "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
@@ -280,6 +288,8 @@
       "refId": "61",
       "folio": "49v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:51.310,34.960,4.660,3.820/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:51.310,34.960,4.660,3.820/1200,/0/default.jpg",
       "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
@@ -291,6 +301,8 @@
       "refId": "81",
       "folio": "49v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:60.130,34.780,5.740,3.980/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:60.130,34.780,5.740,3.980/1200,/0/default.jpg",
       "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
@@ -302,6 +314,8 @@
       "refId": "50",
       "folio": "49v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:66.120,33.640,3.970,4.100/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:66.120,33.640,3.970,4.100/1200,/0/default.jpg",
       "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
@@ -313,6 +327,8 @@
       "refId": "22",
       "folio": "49v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:73.070,32.900,3.680,4.060/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_049v.tif/pct:73.070,32.900,3.680,4.060/1200,/0/default.jpg",
       "lineId": "r_9a84452f-d8c3-484c-bfe9-3ead118bf515"
@@ -324,6 +340,8 @@
       "refId": "41",
       "folio": "93v",
       "line": "Line 15",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:39.920,79.800,3.690,4.040/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:39.920,79.800,3.690,4.040/1200,/0/default.jpg",
       "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
@@ -335,6 +353,8 @@
       "refId": "21b",
       "folio": "93v",
       "line": "Line 15",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:41.770,81.210,3.960,3.580/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:41.770,81.210,3.960,3.580/1200,/0/default.jpg",
       "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
@@ -346,6 +366,8 @@
       "refId": "71",
       "folio": "93v",
       "line": "Line 15",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:45.150,80.970,3.520,3.970/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:45.150,80.970,3.520,3.970/1200,/0/default.jpg",
       "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
@@ -357,6 +379,8 @@
       "refId": "71",
       "folio": "93v",
       "line": "Line 15",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:68.360,79.420,5.070,3.910/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:68.360,79.420,5.070,3.910/1200,/0/default.jpg",
       "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
@@ -368,6 +392,8 @@
       "refId": "21a",
       "folio": "93v",
       "line": "Line 15",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:78.410,79.530,3.640,3.830/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_093v.tif/pct:78.410,79.530,3.640,3.830/1200,/0/default.jpg",
       "lineId": "r_4535a975-36a3-40c0-acc1-e6799902fcca"
@@ -379,6 +405,8 @@
       "refId": "71",
       "folio": "97r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:20.430,27.220,5.250,4.620/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:20.430,27.220,5.250,4.620/1200,/0/default.jpg",
       "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
@@ -390,6 +418,8 @@
       "refId": "61",
       "folio": "97r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:23.790,27.190,3.670,3.660/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:23.790,27.190,3.670,3.660/1200,/0/default.jpg",
       "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
@@ -401,6 +431,8 @@
       "refId": "61",
       "folio": "97r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:30.020,27.220,3.930,3.440/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:30.020,27.220,3.930,3.440/1200,/0/default.jpg",
       "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
@@ -412,6 +444,8 @@
       "refId": "81",
       "folio": "97r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:48.930,27.760,4.550,4.110/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:48.930,27.760,4.550,4.110/1200,/0/default.jpg",
       "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
@@ -423,6 +457,8 @@
       "refId": "81",
       "folio": "97r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:52.920,27.890,4.430,3.790/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:52.920,27.890,4.430,3.790/1200,/0/default.jpg",
       "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
@@ -434,6 +470,8 @@
       "refId": "20a",
       "folio": "97r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:55.430,28.050,3.780,3.500/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:55.430,28.050,3.780,3.500/1200,/0/default.jpg",
       "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
@@ -445,6 +483,8 @@
       "refId": "11",
       "folio": "97r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:58.910,27.220,4.090,4.430/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_097r.tif/pct:58.910,27.220,4.090,4.430/1200,/0/default.jpg",
       "lineId": "r_c0cd277b-498e-4ce1-aa3a-229f786e689b"
@@ -456,6 +496,8 @@
       "refId": "23",
       "folio": "107v",
       "line": "Line 15",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_107v.tif/pct:49.520,78.850,3.900,3.660/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_107v.tif/pct:49.520,78.850,3.900,3.660/1200,/0/default.jpg",
       "lineId": "r_5ec9ebe0-9142-4d21-9f01-122ad2a9ab69"
@@ -467,6 +509,8 @@
       "refId": "30",
       "folio": "108r",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:16.050,14.420,4.660,4.140/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:16.050,14.420,4.660,4.140/1200,/0/default.jpg",
       "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
@@ -478,6 +522,8 @@
       "refId": "20+",
       "folio": "108r",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:21.090,13.360,3.930,4.240/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:21.090,13.360,3.930,4.240/1200,/0/default.jpg",
       "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
@@ -489,6 +535,8 @@
       "refId": "40",
       "folio": "108r",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:23.060,13.000,3.680,3.900/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:23.060,13.000,3.680,3.900/1200,/0/default.jpg",
       "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
@@ -500,6 +548,8 @@
       "refId": "72",
       "folio": "108r",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:25.870,12.910,5.580,3.990/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:25.870,12.910,5.580,3.990/1200,/0/default.jpg",
       "lineId": "r_6e2bf977-215c-4751-92ed-74274a5fe6be"
@@ -511,6 +561,8 @@
       "refId": "10+/20-b",
       "folio": "108r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:28.170,33.720,4.070,4.480/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:28.170,33.720,4.070,4.480/1200,/0/default.jpg",
       "lineId": "r_05d6e5e9-6feb-4837-a2ee-4c8459aa3b07"
@@ -522,6 +574,8 @@
       "refId": "20b",
       "folio": "108r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:36.890,35.820,3.730,3.440/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:36.890,35.820,3.730,3.440/1200,/0/default.jpg",
       "lineId": "r_05d6e5e9-6feb-4837-a2ee-4c8459aa3b07"
@@ -533,6 +587,8 @@
       "refId": "51",
       "folio": "108r",
       "line": "Line 13",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:15.930,71.330,4.520,4.510/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:15.930,71.330,4.520,4.510/1200,/0/default.jpg",
       "lineId": "r_84798094-ab46-4b92-8a86-a28de9c520ab"
@@ -544,6 +600,8 @@
       "refId": "10+/40-",
       "folio": "108r",
       "line": "Line 13",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:33.970,72.900,4.160,3.750/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108r.tif/pct:33.970,72.900,4.160,3.750/1200,/0/default.jpg",
       "lineId": "r_84798094-ab46-4b92-8a86-a28de9c520ab"
@@ -555,6 +613,8 @@
       "refId": "10b",
       "folio": "108v",
       "line": "Line 10",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:59.030,56.990,3.170,3.160/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:59.030,56.990,3.170,3.160/1200,/0/default.jpg",
       "lineId": "r_809c4e7f-cf8a-402b-8e49-14c729f1e6e1"
@@ -566,6 +626,8 @@
       "refId": "24",
       "folio": "108v",
       "line": "Line 10",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:75.530,55.630,4.120,4.350/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_108v.tif/pct:75.530,55.630,4.120,4.350/1200,/0/default.jpg",
       "lineId": "r_809c4e7f-cf8a-402b-8e49-14c729f1e6e1"
@@ -577,6 +639,8 @@
       "refId": "10+/20-a",
       "folio": "109r",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:20.280,11.710,3.730,4.480/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:20.280,11.710,3.730,4.480/1200,/0/default.jpg",
       "lineId": "r_7e6f751a-e9b8-433d-9d97-190e5c6bbdd5"
@@ -588,6 +652,8 @@
       "refId": "10+/20-c",
       "folio": "109r",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,11.920,3.770,4.170/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,11.920,3.770,4.170/1200,/0/default.jpg",
       "lineId": "r_7e6f751a-e9b8-433d-9d97-190e5c6bbdd5"
@@ -599,6 +665,8 @@
       "refId": "71",
       "folio": "109r",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:28.590,17.690,4.420,4.710/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:28.590,17.690,4.420,4.710/1200,/0/default.jpg",
       "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569"
@@ -610,6 +678,8 @@
       "refId": "71",
       "folio": "109r",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:33.010,17.470,4.370,4.430/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:33.010,17.470,4.370,4.430/1200,/0/default.jpg",
       "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569"
@@ -621,6 +691,8 @@
       "refId": "72",
       "folio": "109r",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:36.890,17.850,4.440,4.370/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:36.890,17.850,4.440,4.370/1200,/0/default.jpg",
       "lineId": "r_186f9e11-d134-4351-8770-6d0bd0d4b569"
@@ -632,6 +704,8 @@
       "refId": "43",
       "folio": "109r",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:15.120,22.030,4.700,4.520/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:15.120,22.030,4.700,4.520/1200,/0/default.jpg",
       "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0"
@@ -643,6 +717,8 @@
       "refId": "31",
       "folio": "109r",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,21.970,5.820,4.750/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:27.440,21.970,5.820,4.750/1200,/0/default.jpg",
       "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0"
@@ -654,6 +730,8 @@
       "refId": "52",
       "folio": "109r",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:57.500,22.750,4.800,4.580/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109r.tif/pct:57.500,22.750,4.800,4.580/1200,/0/default.jpg",
       "lineId": "r_0b350f02-2d72-49b4-8ba8-a892caf392a0"
@@ -665,6 +743,8 @@
       "refId": "71",
       "folio": "109v",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:30.990,22.710,4.030,4.320/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:30.990,22.710,4.030,4.320/1200,/0/default.jpg",
       "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
@@ -676,6 +756,8 @@
       "refId": "42",
       "folio": "109v",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:38.260,22.350,5.040,4.490/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:38.260,22.350,5.040,4.490/1200,/0/default.jpg",
       "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
@@ -687,6 +769,8 @@
       "refId": "44",
       "folio": "109v",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:53.100,22.320,3.650,4.960/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:53.100,22.320,3.650,4.960/1200,/0/default.jpg",
       "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
@@ -698,6 +782,8 @@
       "refId": "72",
       "folio": "109v",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:68.040,22.300,3.820,4.090/300,/0/default.jpg",
       "zoom": "https://iiif.diamm.net/images/D-AAm-Cod-13/D-AAm-Cod-13_109v.tif/pct:68.040,22.300,3.820,4.090/1200,/0/default.jpg",
       "lineId": "r_f2f9f853-e468-499e-8290-d250a5cf8802"
@@ -712,14 +798,17 @@
       "items": [
         {
           "id": "1790271922778",
+          "box": null,
           "points": "8.02,26.42 10.58,26.42 10.58,45.64 8.02,45.64"
         },
         {
           "id": "1790271994610",
+          "box": null,
           "points": "25.64,40.83 27.18,40.83 27.18,57.4 25.64,57.4"
         },
         {
           "id": "1790272059031",
+          "box": null,
           "points": "44.46,28.57 48.62,28.57 48.62,51.45 44.46,51.45"
         }
       ]
@@ -732,22 +821,27 @@
       "items": [
         {
           "id": "i_f14ccd84-d07d-4e39-9fc7-c1a5dc886ea1",
+          "box": null,
           "points": "10.57,39.85 16.4,39.85 16.4,61.68 10.57,61.68"
         },
         {
           "id": "i_03bb37a1-88b8-4b24-ae7f-f57e1245cae3",
+          "box": null,
           "points": "20.37,39.85 27.97,39.85 27.97,62.94 20.37,62.94"
         },
         {
           "id": "i_6393acb8-a236-4161-8e47-01c26e4848c3",
+          "box": null,
           "points": "45.56,37.56 56.24,37.56 56.24,62.69 45.56,62.69"
         },
         {
           "id": "i_716f2f5a-118b-4720-96ce-d6699dc30540",
+          "box": null,
           "points": "62.67,23.1 68.29,23.1 68.29,49.75 62.67,49.75"
         },
         {
           "id": "i_5336bf0b-421d-4215-908e-77c6505839a5",
+          "box": null,
           "points": "82.52,13.71 87.31,13.71 87.31,39.85 82.52,39.85"
         }
       ]
@@ -760,22 +854,27 @@
       "items": [
         {
           "id": "i_6900f898-c2d3-4785-bff0-8c29d925d2fe",
+          "box": null,
           "points": "26.82,26.16 29.46,26.16 29.46,51.69 26.82,51.69"
         },
         {
           "id": "i_3a4f8571-aaa2-4d1d-901a-1884f9192ce5",
+          "box": null,
           "points": "29.71,43.8 32.77,43.8 32.77,63.58 29.71,63.58"
         },
         {
           "id": "i_9e1f60ac-5c42-4d92-b9d3-d4ef313252f4",
+          "box": null,
           "points": "34.99,40.8 37.37,40.8 37.37,65.46 34.99,65.46"
         },
         {
           "id": "i_c70952d5-eae6-4323-9680-eb12de342660",
+          "box": null,
           "points": "71.27,21.4 76.07,21.4 76.07,45.31 71.27,45.31"
         },
         {
           "id": "i_c68e25a7-a416-479f-ad5d-7c7c41523094",
+          "box": null,
           "points": "86.98,22.78 89.55,22.78 89.55,45.68 86.98,45.68"
         }
       ]
@@ -788,30 +887,37 @@
       "items": [
         {
           "id": "i_9bf43dc4-85ea-4ace-b55e-2d84eb0cd5a2",
+          "box": null,
           "points": "14.73,19.81 19.96,19.81 19.96,54.89 14.73,54.89"
         },
         {
           "id": "i_2de0ed27-6b8f-4ebf-badb-4e679a1cc7c5",
+          "box": null,
           "points": "20.14,19.41 22.82,19.41 22.82,41.63 20.14,41.63"
         },
         {
           "id": "i_7304d09e-84da-43fb-aec0-5f0ce63f7a47",
+          "box": null,
           "points": "30.16,19.81 33.27,19.81 33.27,39.09 30.16,39.09"
         },
         {
           "id": "i_c49aea11-6bac-493e-8580-1c0daa60b402",
+          "box": null,
           "points": "60.59,27.04 64.69,27.04 64.69,55.29 60.59,55.29"
         },
         {
           "id": "i_a326c807-c72e-4b53-aa2e-b23c9ac2bf85",
+          "box": null,
           "points": "67.01,28.78 70.92,28.78 70.92,52.74 67.01,52.74"
         },
         {
           "id": "i_49004064-d99f-428e-aab7-093469267874",
+          "box": null,
           "points": "71.05,30.92 73.91,30.92 73.91,51 71.05,51"
         },
         {
           "id": "i_a16e6105-919c-4f34-af9c-6e6a92a8640b",
+          "box": null,
           "points": "76.65,19.81 80.01,19.81 80.01,52.34 76.65,52.34"
         }
       ]
@@ -824,6 +930,7 @@
       "items": [
         {
           "id": "i_e978377e-f4ef-465a-bf91-9505f1448ab0",
+          "box": null,
           "points": "41.6,13.59 44.73,13.59 44.73,33.37 41.6,33.37"
         }
       ]
@@ -836,18 +943,22 @@
       "items": [
         {
           "id": "i_8adc2ec0-bba0-4cfc-bcb4-d9e692512823",
+          "box": null,
           "points": "12.92,32.29 17.04,32.29 17.04,56.2 12.92,56.2"
         },
         {
           "id": "i_6302e38d-acaa-4ca4-92d1-df97cbfda75b",
+          "box": null,
           "points": "20.73,20.45 23.72,20.45 23.72,45.47 20.73,45.47"
         },
         {
           "id": "i_73890b6a-0c10-4460-a50f-51a0c967ed5e",
+          "box": null,
           "points": "23.78,16.42 26.38,16.42 26.38,37.65 23.78,37.65"
         },
         {
           "id": "i_2ce444d4-84d9-4c0e-86cb-cd19ed8ac276",
+          "box": null,
           "points": "28.13,15.42 33.68,15.42 33.68,37.65 28.13,37.65"
         }
       ]
@@ -860,10 +971,12 @@
       "items": [
         {
           "id": "i_b53dbde8-128b-4865-9e5f-8da6117c044b",
+          "box": null,
           "points": "31.63,23.15 34.86,23.15 34.86,51.85 31.63,51.85"
         },
         {
           "id": "i_822aace1-606b-4c2c-8db4-b00cf8aa516f",
+          "box": null,
           "points": "45.24,47.45 47.95,47.45 47.95,64.12 45.24,64.12"
         }
       ]
@@ -876,10 +989,12 @@
       "items": [
         {
           "id": "i_c5b08878-3057-457c-9d71-b2440c0390cd",
+          "box": null,
           "points": "13.44,24.36 17.54,24.36 17.54,51.06 13.44,51.06"
         },
         {
           "id": "i_30c9ccc2-0443-494b-957c-5933c70e094f",
+          "box": null,
           "points": "42.79,41.06 46.31,41.06 46.31,59.68 42.79,59.68"
         }
       ]
@@ -892,10 +1007,12 @@
       "items": [
         {
           "id": "i_43378955-92d5-4e23-9d99-4b4e173fcfcd",
+          "box": null,
           "points": "57.19,53.03 59.07,53.03 59.07,69.01 57.19,69.01"
         },
         {
           "id": "i_c7434f67-374c-4bae-8979-1132370f88ec",
+          "box": null,
           "points": "83.66,34.3 87.06,34.3 87.06,66.67 83.66,66.67"
         }
       ]
@@ -908,10 +1025,12 @@
       "items": [
         {
           "id": "i_b2a0eb9b-3a3e-4641-99d8-20d8de366189",
+          "box": null,
           "points": "15.55,17.57 18.17,17.57 18.17,43.81 15.55,43.81"
         },
         {
           "id": "i_67f0bec6-a478-4b60-9132-af215fa519d5",
+          "box": null,
           "points": "26.38,19.79 29.06,19.79 29.06,42.75 26.38,42.75"
         }
       ]
@@ -924,14 +1043,17 @@
       "items": [
         {
           "id": "i_0e755e25-e9a7-4b5b-b644-87ed8e0e4f13",
+          "box": null,
           "points": "27.86,25.96 31.49,25.96 31.49,55.78 27.86,55.78"
         },
         {
           "id": "i_0b929f48-6cc1-4137-a0e6-ba151b30faeb",
+          "box": null,
           "points": "34.49,23.54 38.04,23.54 38.04,50.28 34.49,50.28"
         },
         {
           "id": "i_fa098ab2-6d9a-4619-a1f9-cb0e32e32a02",
+          "box": null,
           "points": "40.31,27.72 43.96,27.72 43.96,53.8 40.31,53.8"
         }
       ]
@@ -944,14 +1066,17 @@
       "items": [
         {
           "id": "i_839d74a7-3d23-4e7c-ba5b-76031a96900c",
+          "box": null,
           "points": "9.37,15.3 13.33,15.3 13.33,42.84 9.37,42.84"
         },
         {
           "id": "i_26f0dc0a-0fac-4765-b9be-783e286546a5",
+          "box": null,
           "points": "27.47,14.64 33.08,14.64 33.08,44.7 27.47,44.7"
         },
         {
           "id": "i_2743a9b4-3ed8-4ea7-9049-07879889d5fe",
+          "box": null,
           "points": "71.65,23.17 75.76,23.17 75.76,51.37 71.65,51.37"
         }
       ]
@@ -964,18 +1089,22 @@
       "items": [
         {
           "id": "i_7809c102-41ad-47f2-a50e-af8024209bff",
+          "box": null,
           "points": "13.63,28.61 16.72,28.61 16.72,59.63 13.63,59.63"
         },
         {
           "id": "i_ca9b2483-e9c0-4434-bb58-ede9f3706fbf",
+          "box": null,
           "points": "24.69,23.8 29.32,23.8 29.32,57.09 24.69,57.09"
         },
         {
           "id": "i_13f2b2d4-9591-47c6-8934-b4d2ed4dfc71",
+          "box": null,
           "points": "47.27,23.4 49.78,23.4 49.78,62.97 47.27,62.97"
         },
         {
           "id": "i_062d0729-132a-405d-aa11-c9f21a8ed390",
+          "box": null,
           "points": "70,23.13 72.77,23.13 72.77,51.07 70,51.07"
         }
       ]

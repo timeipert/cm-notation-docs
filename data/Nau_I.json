@@ -2,7 +2,7 @@
   "id": "Nau I",
   "source": "Nau I",
   "name": "Nau I",
-  "notes": "Zur Paginierung siehe gedruckte Fassung. ",
+  "notes": "Zur Paginierung siehe gedruckte Fassung.",
   "kind": "iiif",
   "rows": [
     {
@@ -146,9 +146,12 @@
       "refId": "46+",
       "folio": "13r",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0013.tif/pct:29.960,20.720,7.810,5.910/300,/0/default.jpg",
       "zoom": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0013.tif/pct:29.960,20.720,7.810,5.910/1200,/0/default.jpg",
-      "lineId": "r_547a9f50-f4a5-493b-b2d9-4d9a824bdd6f"
+      "lineId": "r_547a9f50-f4a5-493b-b2d9-4d9a824bdd6f",
+      "local": "images/Nau_I/i_4b004581-a44c-4db2-bb7e-fe4d78b6289f.jpg"
     },
     {
       "id": "i_a1e59797-02f9-4f44-b15c-9163b22d6dbd",
@@ -157,6 +160,8 @@
       "refId": "41",
       "folio": "13v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_5bc5816d-554f-40fe-ac2c-32444452767f"
@@ -168,6 +173,8 @@
       "refId": "41",
       "folio": "13v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_5bc5816d-554f-40fe-ac2c-32444452767f"
@@ -179,6 +186,8 @@
       "refId": "51",
       "folio": "13v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_5bc5816d-554f-40fe-ac2c-32444452767f"
@@ -190,6 +199,8 @@
       "refId": "10",
       "folio": "13v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_5bc5816d-554f-40fe-ac2c-32444452767f"
@@ -201,6 +212,8 @@
       "refId": "44",
       "folio": "13v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_5bc5816d-554f-40fe-ac2c-32444452767f"
@@ -212,6 +225,8 @@
       "refId": "10+/20-c",
       "folio": "14v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_3a21194a-cc66-4463-98aa-8f38a72a9434"
@@ -223,6 +238,8 @@
       "refId": "10+/20-b",
       "folio": "14v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_01176c9c-877b-4b18-ad78-c2fceb9576fc"
@@ -234,6 +251,8 @@
       "refId": "21b",
       "folio": "14v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_01176c9c-877b-4b18-ad78-c2fceb9576fc"
@@ -245,6 +264,8 @@
       "refId": "40",
       "folio": "14v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_01176c9c-877b-4b18-ad78-c2fceb9576fc"
@@ -256,6 +277,8 @@
       "refId": "45",
       "folio": "18v",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_775d91cd-575b-47e5-8f14-74ffe1e1238e"
@@ -267,6 +290,8 @@
       "refId": "10+/20-a",
       "folio": "18v",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_775d91cd-575b-47e5-8f14-74ffe1e1238e"
@@ -278,6 +303,8 @@
       "refId": "46",
       "folio": "18v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_590843bd-74c8-4cfa-a151-1062eef84a12"
@@ -289,6 +316,8 @@
       "refId": "43",
       "folio": "18v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_590843bd-74c8-4cfa-a151-1062eef84a12"
@@ -300,6 +329,8 @@
       "refId": "20",
       "folio": "18v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_590843bd-74c8-4cfa-a151-1062eef84a12"
@@ -311,6 +342,8 @@
       "refId": "20+",
       "folio": "77v",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_03235b4d-d435-4a39-98c8-1d9237ea7574"
@@ -322,6 +355,8 @@
       "refId": "22",
       "folio": "77v",
       "line": "Line 1",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_03235b4d-d435-4a39-98c8-1d9237ea7574"
@@ -333,6 +368,8 @@
       "refId": "23b",
       "folio": "77v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_b0601d2f-9d63-474c-8186-470e3833420b"
@@ -344,6 +381,8 @@
       "refId": "23a",
       "folio": "77v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_b0601d2f-9d63-474c-8186-470e3833420b"
@@ -355,6 +394,8 @@
       "refId": "42",
       "folio": "77v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_48d763e6-1348-4116-8bb2-6cb6ed245337"
@@ -366,6 +407,8 @@
       "refId": "30",
       "folio": "77v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_48d763e6-1348-4116-8bb2-6cb6ed245337"
@@ -377,6 +420,8 @@
       "refId": "31",
       "folio": "77v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_48d763e6-1348-4116-8bb2-6cb6ed245337"
@@ -388,6 +433,8 @@
       "refId": "21a",
       "folio": "77v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "",
       "zoom": "",
       "lineId": "r_48d763e6-1348-4116-8bb2-6cb6ed245337"
@@ -399,9 +446,12 @@
       "refId": "13",
       "folio": "78r",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:58.210,16.200,7.970,6.000/300,/0/default.jpg",
       "zoom": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:58.210,16.200,7.970,6.000/1200,/0/default.jpg",
-      "lineId": "r_81316291-b99c-492a-a516-e468f64b08da"
+      "lineId": "r_81316291-b99c-492a-a516-e468f64b08da",
+      "local": "images/Nau_I/i_13e447e4-12f6-4664-ab99-abae94ed55e0.jpg"
     },
     {
       "id": "i_9e3a7f4d-6a99-431d-8186-1930742466f6",
@@ -410,9 +460,12 @@
       "refId": "11",
       "folio": "78r",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:74.050,16.980,5.350,4.670/300,/0/default.jpg",
       "zoom": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:74.050,16.980,5.350,4.670/1200,/0/default.jpg",
-      "lineId": "r_81316291-b99c-492a-a516-e468f64b08da"
+      "lineId": "r_81316291-b99c-492a-a516-e468f64b08da",
+      "local": "images/Nau_I/i_9e3a7f4d-6a99-431d-8186-1930742466f6.jpg"
     },
     {
       "id": "i_40e0605a-f82a-4ca8-9348-868e44fe9df4",
@@ -421,9 +474,12 @@
       "refId": "11",
       "folio": "78r",
       "line": "Line 4",
+      "syllable": "",
+      "caption": "",
       "image": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:24.110,29.690,6.040,4.740/300,/0/default.jpg",
       "zoom": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:24.110,29.690,6.040,4.740/1200,/0/default.jpg",
-      "lineId": "r_79c1bf3e-d2c0-41bc-9793-337e28f44486"
+      "lineId": "r_79c1bf3e-d2c0-41bc-9793-337e28f44486",
+      "local": "images/Nau_I/i_40e0605a-f82a-4ca8-9348-868e44fe9df4.jpg"
     },
     {
       "id": "i_25a38d88-e3ef-48c3-bf72-440517381d63",
@@ -432,9 +488,12 @@
       "refId": "12",
       "folio": "78r",
       "line": "Line 4",
+      "syllable": "",
+      "caption": "",
       "image": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:28.760,29.770,6.850,4.310/300,/0/default.jpg",
       "zoom": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:28.760,29.770,6.850,4.310/1200,/0/default.jpg",
-      "lineId": "r_79c1bf3e-d2c0-41bc-9793-337e28f44486"
+      "lineId": "r_79c1bf3e-d2c0-41bc-9793-337e28f44486",
+      "local": "images/Nau_I/i_25a38d88-e3ef-48c3-bf72-440517381d63.jpg"
     },
     {
       "id": "i_5625eb79-107c-4da2-ae18-fcc58d343762",
@@ -443,9 +502,12 @@
       "refId": "10+/20-a",
       "folio": "78r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:46.540,36.370,5.110,4.330/300,/0/default.jpg",
       "zoom": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:46.540,36.370,5.110,4.330/1200,/0/default.jpg",
-      "lineId": "r_bdc72923-19df-49fb-b0bf-ab2152982ced"
+      "lineId": "r_bdc72923-19df-49fb-b0bf-ab2152982ced",
+      "local": "images/Nau_I/i_5625eb79-107c-4da2-ae18-fcc58d343762.jpg"
     },
     {
       "id": "i_5ffca290-590e-478b-b270-f57c686d6a7e",
@@ -454,9 +516,12 @@
       "refId": "50",
       "folio": "78r",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:52.490,36.570,6.490,5.240/300,/0/default.jpg",
       "zoom": "https://archive.thulb.uni-jena.de/korax/api/iiif/image/v2/Korax_derivate_00002026%2FChorbuch_0078.tif/pct:52.490,36.570,6.490,5.240/1200,/0/default.jpg",
-      "lineId": "r_bdc72923-19df-49fb-b0bf-ab2152982ced"
+      "lineId": "r_bdc72923-19df-49fb-b0bf-ab2152982ced",
+      "local": "images/Nau_I/i_5ffca290-590e-478b-b270-f57c686d6a7e.jpg"
     }
   ],
   "lines": [
@@ -468,6 +533,7 @@
       "items": [
         {
           "id": "i_4b004581-a44c-4db2-bb7e-fe4d78b6289f",
+          "box": null,
           "points": "30.25,10.34 37.61,10.34 37.61,51.58 30.25,51.58"
         }
       ]
@@ -480,22 +546,27 @@
       "items": [
         {
           "id": "i_a1e59797-02f9-4f44-b15c-9163b22d6dbd",
+          "box": null,
           "points": "18.5,27.75 24.54,27.75 24.54,56.58 18.5,56.58"
         },
         {
           "id": "i_ceebf796-bb95-47da-a4a6-376d1ec622ee",
+          "box": null,
           "points": "24.22,34.71 29.2,34.71 29.2,58.22 24.22,58.22"
         },
         {
           "id": "i_ab9ae76f-956e-4f8f-b077-c28ab5213500",
+          "box": null,
           "points": "36.38,14.91 43.35,14.91 43.35,54.41 36.38,54.41"
         },
         {
           "id": "i_6bf0baeb-fb24-4079-a8c4-bda5df14ffae",
+          "box": null,
           "points": "57.93,24.37 62.19,24.37 62.19,49.29 57.93,49.29"
         },
         {
           "id": "i_ae179cf3-3052-42db-b463-f71ec43a078f",
+          "box": null,
           "points": "67.94,20.67 75.23,20.67 75.23,55.39 67.94,55.39"
         }
       ]
@@ -508,6 +579,7 @@
       "items": [
         {
           "id": "i_71648af8-2b40-4aa5-8b0a-0c6a19b9fedc",
+          "box": null,
           "points": "70.68,22.55 76.52,22.55 76.52,54.59 70.68,54.59"
         }
       ]
@@ -520,14 +592,17 @@
       "items": [
         {
           "id": "i_8ef87ad3-1768-4b08-8a24-99131bef4455",
+          "box": null,
           "points": "16.49,39.01 20.75,39.01 20.75,58.76 16.49,58.76"
         },
         {
           "id": "i_418e7763-07fa-4b7c-8293-a9634c90e665",
+          "box": null,
           "points": "33.89,20.77 39.72,20.77 39.72,52.28 33.89,52.28"
         },
         {
           "id": "i_ab8b235b-9b84-4891-80c8-11f450f3f32c",
+          "box": null,
           "points": "46.32,26.55 50.32,26.55 50.32,57.65 46.32,57.65"
         }
       ]
@@ -540,10 +615,12 @@
       "items": [
         {
           "id": "i_429c8969-865d-4c1d-bbe8-3fb44cd73dde",
+          "box": null,
           "points": "21.17,12.39 30.06,12.39 30.06,48.33 21.17,48.33"
         },
         {
           "id": "i_f1b6e1a5-123b-406f-8a18-e791f83c3859",
+          "box": null,
           "points": "30.03,14.84 33.22,14.84 33.22,40.63 30.03,40.63"
         }
       ]
@@ -556,14 +633,17 @@
       "items": [
         {
           "id": "i_c9ab800e-c377-4bcd-bd32-67d779e17a0d",
+          "box": null,
           "points": "61.25,23.63 67.65,23.63 67.65,59.13 61.25,59.13"
         },
         {
           "id": "i_54e87fc2-b19a-4886-90d7-3538985240af",
+          "box": null,
           "points": "70.23,22.91 76.87,22.91 76.87,54.59 70.23,54.59"
         },
         {
           "id": "i_12e12b76-1e6f-42d2-9171-633d6442bfa2",
+          "box": null,
           "points": "85.79,26.42 90.17,26.42 90.17,58.72 85.79,58.72"
         }
       ]
@@ -576,10 +656,12 @@
       "items": [
         {
           "id": "i_a24ce8b2-0899-4831-994a-85d1b4710ada",
+          "box": null,
           "points": "49.01,24.92 54.86,24.92 54.86,64.41 49.01,64.41"
         },
         {
           "id": "i_e5f1ad1f-923c-4e88-b518-f5b4cb46e12d",
+          "box": null,
           "points": "75.91,9.95 82.85,9.95 82.85,54.46 75.91,54.46"
         }
       ]
@@ -592,10 +674,12 @@
       "items": [
         {
           "id": "i_bff28c8f-582f-4257-b45b-a055b427d022",
+          "box": null,
           "points": "52.88,17.16 58.37,17.16 58.37,55.98 52.88,55.98"
         },
         {
           "id": "i_824a2f42-3bc3-43a4-806e-72f8d4876252",
+          "box": null,
           "points": "61.77,18.08 67.63,18.08 67.63,53.01 61.77,53.01"
         }
       ]
@@ -608,18 +692,22 @@
       "items": [
         {
           "id": "i_4f21a6cd-e29a-4c72-94f5-d37bc0712b7d",
+          "box": null,
           "points": "12.71,33.62 20.26,33.62 20.26,68.97 12.71,68.97"
         },
         {
           "id": "i_dc77519b-9735-4481-a8f0-e9b40fdbd839",
+          "box": null,
           "points": "30.54,20.54 36.13,20.54 36.13,62.92 30.54,62.92"
         },
         {
           "id": "i_05172d0d-7024-4484-99cb-4a7d5db72c1d",
+          "box": null,
           "points": "59.97,26.59 67.74,26.59 67.74,68.32 59.97,68.32"
         },
         {
           "id": "i_5601e83f-9830-420b-bae5-250d69cd7dee",
+          "box": null,
           "points": "86.21,31.24 91.59,31.24 91.59,67.68 86.21,67.68"
         }
       ]
@@ -632,10 +720,12 @@
       "items": [
         {
           "id": "i_13e447e4-12f6-4664-ab99-abae94ed55e0",
+          "box": null,
           "points": "67.14,20.28 74.96,20.28 74.96,60.65 67.14,60.65"
         },
         {
           "id": "i_9e3a7f4d-6a99-431d-8186-1930742466f6",
+          "box": null,
           "points": "87.89,28.15 92.27,28.15 92.27,55.1 87.89,55.1"
         }
       ]
@@ -648,10 +738,12 @@
       "items": [
         {
           "id": "i_40e0605a-f82a-4ca8-9348-868e44fe9df4",
+          "box": null,
           "points": "23.59,24.8 28.81,24.8 28.81,52.76 23.59,52.76"
         },
         {
           "id": "i_25a38d88-e3ef-48c3-bf72-440517381d63",
+          "box": null,
           "points": "29.6,25.61 35.86,25.61 35.86,49.18 29.6,49.18"
         }
       ]
@@ -664,10 +756,12 @@
       "items": [
         {
           "id": "i_5625eb79-107c-4da2-ae18-fcc58d343762",
+          "box": null,
           "points": "52.31,17.11 56.34,17.11 56.34,42.03 52.31,42.03"
         },
         {
           "id": "i_5ffca290-590e-478b-b270-f57c686d6a7e",
+          "box": null,
           "points": "60.02,19.25 65.84,19.25 65.84,53.9 60.02,53.9"
         }
       ]

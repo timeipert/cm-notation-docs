@@ -122,9 +122,12 @@
       "refId": "20",
       "folio": "18r",
       "line": "Line 16",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:16.960,66.320,3.790,3.760/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:16.960,66.320,3.790,3.760/1200,/0/default.jpg",
-      "lineId": "r_1788384196457"
+      "lineId": "r_1788384196457",
+      "local": "images/Ox_340/i_204cbd94-4996-4d32-a876-297b91f6fb2d.jpg"
     },
     {
       "id": "i_b125d110-2172-422f-ae27-247b94d3d4c8",
@@ -133,9 +136,12 @@
       "refId": "10a",
       "folio": "18r",
       "line": "Line 16",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:28.010,66.100,3.610,4.070/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:28.010,66.100,3.610,4.070/1200,/0/default.jpg",
-      "lineId": "r_1788384196457"
+      "lineId": "r_1788384196457",
+      "local": "images/Ox_340/i_b125d110-2172-422f-ae27-247b94d3d4c8.jpg"
     },
     {
       "id": "i_7fd4a922-7c77-40bd-839a-29d69336fb7a",
@@ -144,9 +150,12 @@
       "refId": "21a",
       "folio": "18r",
       "line": "Line 16",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:45.780,65.730,4.890,4.170/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:45.780,65.730,4.890,4.170/1200,/0/default.jpg",
-      "lineId": "r_1788384196457"
+      "lineId": "r_1788384196457",
+      "local": "images/Ox_340/i_7fd4a922-7c77-40bd-839a-29d69336fb7a.jpg"
     },
     {
       "id": "1788384676397",
@@ -155,9 +164,12 @@
       "refId": "31",
       "folio": "18v",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:45.780,10.470,5.320,4.460/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:45.780,10.470,5.320,4.460/1200,/0/default.jpg",
-      "lineId": "r_1788384645775"
+      "lineId": "r_1788384645775",
+      "local": "images/Ox_340/1788384676397.jpg"
     },
     {
       "id": "1788384762777",
@@ -166,9 +178,12 @@
       "refId": "10b",
       "folio": "18v",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:62.820,11.980,3.520,2.890/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:62.820,11.980,3.520,2.890/1200,/0/default.jpg",
-      "lineId": "r_1788384645775"
+      "lineId": "r_1788384645775",
+      "local": "images/Ox_340/1788384762777.jpg"
     },
     {
       "id": "1788384830101",
@@ -177,9 +192,12 @@
       "refId": "42",
       "folio": "18v",
       "line": "Line 2",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:78.320,11.320,4.660,4.020/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:78.320,11.320,4.660,4.020/1200,/0/default.jpg",
-      "lineId": "r_1788384645775"
+      "lineId": "r_1788384645775",
+      "local": "images/Ox_340/1788384830101.jpg"
     },
     {
       "id": "1788384859749",
@@ -188,9 +206,12 @@
       "refId": "47",
       "folio": "18v",
       "line": "Line 5",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:59.480,21.440,4.750,3.950/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:59.480,21.440,4.750,3.950/1200,/0/default.jpg",
-      "lineId": "r_1788384726669"
+      "lineId": "r_1788384726669",
+      "local": "images/Ox_340/1788384859749.jpg"
     },
     {
       "id": "1788384956987",
@@ -199,9 +220,12 @@
       "refId": "44a",
       "folio": "18v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:35.520,29.030,5.130,4.390/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:35.520,29.030,5.130,4.390/1200,/0/default.jpg",
-      "lineId": "r_1788384913860"
+      "lineId": "r_1788384913860",
+      "local": "images/Ox_340/1788384956987.jpg"
     },
     {
       "id": "1788384995096",
@@ -210,9 +234,12 @@
       "refId": "21c",
       "folio": "18v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:54.560,29.450,4.240,4.550/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:54.560,29.450,4.240,4.550/1200,/0/default.jpg",
-      "lineId": "r_1788384913860"
+      "lineId": "r_1788384913860",
+      "local": "images/Ox_340/1788384995096.jpg"
     },
     {
       "id": "1788385074185",
@@ -221,9 +248,12 @@
       "refId": "43",
       "folio": "18v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:57.150,29.030,4.820,4.790/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:57.150,29.030,4.820,4.790/1200,/0/default.jpg",
-      "lineId": "r_1788384913860"
+      "lineId": "r_1788384913860",
+      "local": "images/Ox_340/1788385074185.jpg"
     },
     {
       "id": "1788385106414",
@@ -232,9 +262,12 @@
       "refId": "48",
       "folio": "18v",
       "line": "Line 7",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:68.980,30.140,3.650,4.360/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:68.980,30.140,3.650,4.360/1200,/0/default.jpg",
-      "lineId": "r_1788384913860"
+      "lineId": "r_1788384913860",
+      "local": "images/Ox_340/1788385106414.jpg"
     },
     {
       "id": "i_a46063e0-acac-419d-9219-469a67ceb822",
@@ -243,9 +276,12 @@
       "refId": "45b",
       "folio": "19v",
       "line": "Line 9",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:48.570,36.900,4.380,3.830/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:48.570,36.900,4.380,3.830/1200,/0/default.jpg",
-      "lineId": "r_1788385211579"
+      "lineId": "r_1788385211579",
+      "local": "images/Ox_340/i_a46063e0-acac-419d-9219-469a67ceb822.jpg"
     },
     {
       "id": "i_8e102c2e-e270-4ea5-b4f3-2acb2bc8171f",
@@ -254,9 +290,12 @@
       "refId": "22",
       "folio": "19v",
       "line": "Line 10",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:41.120,40.900,5.010,4.410/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:41.120,40.900,5.010,4.410/1200,/0/default.jpg",
-      "lineId": "r_c3fe7904-ff1d-4071-80a0-6aac2eb56d6f"
+      "lineId": "r_c3fe7904-ff1d-4071-80a0-6aac2eb56d6f",
+      "local": "images/Ox_340/i_8e102c2e-e270-4ea5-b4f3-2acb2bc8171f.jpg"
     },
     {
       "id": "i_ce0147d6-34ec-41b4-9488-81e6d63fdde0",
@@ -265,9 +304,12 @@
       "refId": "30",
       "folio": "19v",
       "line": "Line 11",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:69.860,45.870,4.740,3.920/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:69.860,45.870,4.740,3.920/1200,/0/default.jpg",
-      "lineId": "r_6edc7e5c-d5bb-4e8b-aae1-d0a325fa1199"
+      "lineId": "r_6edc7e5c-d5bb-4e8b-aae1-d0a325fa1199",
+      "local": "images/Ox_340/i_ce0147d6-34ec-41b4-9488-81e6d63fdde0.jpg"
     },
     {
       "id": "i_a2a4b694-942c-41e0-a9ea-9e24894dd337",
@@ -276,9 +318,12 @@
       "refId": "45a",
       "folio": "19v",
       "line": "Line 11",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:77.740,45.900,3.900,4.120/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:77.740,45.900,3.900,4.120/1200,/0/default.jpg",
-      "lineId": "r_6edc7e5c-d5bb-4e8b-aae1-d0a325fa1199"
+      "lineId": "r_6edc7e5c-d5bb-4e8b-aae1-d0a325fa1199",
+      "local": "images/Ox_340/i_a2a4b694-942c-41e0-a9ea-9e24894dd337.jpg"
     },
     {
       "id": "i_1cc45637-7d2c-482a-9306-01cf9497faf7",
@@ -287,9 +332,12 @@
       "refId": "10+/20-",
       "folio": "19v",
       "line": "Line 14",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:40.240,57.320,3.700,4.250/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:40.240,57.320,3.700,4.250/1200,/0/default.jpg",
-      "lineId": "r_b6d71d3b-6a3f-446d-b0f6-0a8440deed72"
+      "lineId": "r_b6d71d3b-6a3f-446d-b0f6-0a8440deed72",
+      "local": "images/Ox_340/i_1cc45637-7d2c-482a-9306-01cf9497faf7.jpg"
     },
     {
       "id": "i_e0329ad4-5a70-49c6-bfdb-e84781acc2d7",
@@ -298,9 +346,12 @@
       "refId": "10+/40-",
       "folio": "19v",
       "line": "Line 14",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:64.990,57.790,3.550,3.840/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:64.990,57.790,3.550,3.840/1200,/0/default.jpg",
-      "lineId": "r_b6d71d3b-6a3f-446d-b0f6-0a8440deed72"
+      "lineId": "r_b6d71d3b-6a3f-446d-b0f6-0a8440deed72",
+      "local": "images/Ox_340/i_e0329ad4-5a70-49c6-bfdb-e84781acc2d7.jpg"
     },
     {
       "id": "1788385835770",
@@ -309,9 +360,12 @@
       "refId": "21b",
       "folio": "20r",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:19.660,15.130,4.840,3.630/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:19.660,15.130,4.840,3.630/1200,/0/default.jpg",
-      "lineId": "r_1788385768740"
+      "lineId": "r_1788385768740",
+      "local": "images/Ox_340/1788385835770.jpg"
     },
     {
       "id": "1788385870152",
@@ -320,9 +374,12 @@
       "refId": "11",
       "folio": "20r",
       "line": "Line 3",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:41.430,15.380,4.340,3.530/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:41.430,15.380,4.340,3.530/1200,/0/default.jpg",
-      "lineId": "r_1788385768740"
+      "lineId": "r_1788385768740",
+      "local": "images/Ox_340/1788385870152.jpg"
     },
     {
       "id": "i_55ed7827-67e8-40e4-a21b-b8c878944e12",
@@ -331,9 +388,12 @@
       "refId": "46",
       "folio": "23r",
       "line": "Line 16",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:34.280,65.040,5.180,4.760/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:34.280,65.040,5.180,4.760/1200,/0/default.jpg",
-      "lineId": "r_1788385973023"
+      "lineId": "r_1788385973023",
+      "local": "images/Ox_340/i_55ed7827-67e8-40e4-a21b-b8c878944e12.jpg"
     },
     {
       "id": "i_471baaed-46f7-4d59-b82f-9c36cc5fd385",
@@ -342,9 +402,12 @@
       "refId": "40b",
       "folio": "23r",
       "line": "Line 16",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:47.330,65.160,4.270,3.970/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:47.330,65.160,4.270,3.970/1200,/0/default.jpg",
-      "lineId": "r_1788385973023"
+      "lineId": "r_1788385973023",
+      "local": "images/Ox_340/i_471baaed-46f7-4d59-b82f-9c36cc5fd385.jpg"
     },
     {
       "id": "i_a43fb7b3-aa33-4853-afda-bd659402a7c2",
@@ -353,9 +416,12 @@
       "refId": "44b",
       "folio": "23r",
       "line": "Line 16",
+      "syllable": "",
+      "caption": "",
       "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:56.990,64.490,5.520,4.710/300,/0/default.jpg",
       "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:56.990,64.490,5.520,4.710/1200,/0/default.jpg",
-      "lineId": "r_1788385973023"
+      "lineId": "r_1788385973023",
+      "local": "images/Ox_340/i_a43fb7b3-aa33-4853-afda-bd659402a7c2.jpg"
     }
   ],
   "lines": [
@@ -367,14 +433,17 @@
       "items": [
         {
           "id": "i_204cbd94-4996-4d32-a876-297b91f6fb2d",
+          "box": null,
           "points": "18.69,33.79 21.36,33.79 21.36,60.45 18.69,60.45"
         },
         {
           "id": "i_b125d110-2172-422f-ae27-247b94d3d4c8",
+          "box": null,
           "points": "35.17,30.45 37.57,30.45 37.57,61.82 35.17,61.82"
         },
         {
           "id": "i_7fd4a922-7c77-40bd-839a-29d69336fb7a",
+          "box": null,
           "points": "61.68,24.85 65.99,24.85 65.99,57.73 61.68,57.73"
         }
       ]
@@ -387,14 +456,17 @@
       "items": [
         {
           "id": "1788384676397",
+          "box": null,
           "points": "22.7,24.55 27.94,24.55 27.94,61.6 22.7,61.6"
         },
         {
           "id": "1788384762777",
+          "box": null,
           "points": "49.58,47.29 51.98,47.29 51.98,60.69 49.58,60.69"
         },
         {
           "id": "1788384830101",
+          "box": null,
           "points": "74.03,37.35 78.23,37.35 78.23,67.77 74.03,67.77"
         }
       ]
@@ -407,6 +479,7 @@
       "items": [
         {
           "id": "1788384859749",
+          "box": null,
           "points": "44.91,20.2 49.15,20.2 49.15,48.76 44.91,48.76"
         }
       ]
@@ -419,18 +492,22 @@
       "items": [
         {
           "id": "1788384956987",
+          "box": null,
           "points": "8.35,15.98 13.19,15.98 13.19,50.07 8.35,50.07"
         },
         {
           "id": "1788384995096",
+          "box": null,
           "points": "37.77,21.97 41.24,21.97 41.24,58.35 37.77,58.35"
         },
         {
           "id": "1788385074185",
+          "box": null,
           "points": "41.78,15.98 46.14,15.98 46.14,55.78 41.78,55.78"
         },
         {
           "id": "1788385106414",
+          "box": null,
           "points": "60.06,31.81 62.61,31.81 62.61,65.48 60.06,65.48"
         }
       ]
@@ -443,6 +520,7 @@
       "items": [
         {
           "id": "i_a46063e0-acac-419d-9219-469a67ceb822",
+          "box": null,
           "points": "29.86,19.56 33.59,19.56 33.59,44.77 29.86,44.77"
         }
       ]
@@ -455,6 +533,7 @@
       "items": [
         {
           "id": "i_8e102c2e-e270-4ea5-b4f3-2acb2bc8171f",
+          "box": null,
           "points": "18.2,19.42 22.91,19.42 22.91,58.11 18.2,58.11"
         }
       ]
@@ -467,10 +546,12 @@
       "items": [
         {
           "id": "i_ce0147d6-34ec-41b4-9488-81e6d63fdde0",
+          "box": null,
           "points": "63.3,36.15 67.59,36.15 67.59,64.59 63.3,64.59"
         },
         {
           "id": "i_a2a4b694-942c-41e0-a9ea-9e24894dd337",
+          "box": null,
           "points": "75.65,36.59 78.62,36.59 78.62,68 75.65,68"
         }
       ]
@@ -483,10 +564,12 @@
       "items": [
         {
           "id": "i_1cc45637-7d2c-482a-9306-01cf9497faf7",
+          "box": null,
           "points": "16.51,29.24 19.19,29.24 19.19,62.97 16.51,62.97"
         },
         {
           "id": "i_e0329ad4-5a70-49c6-bfdb-e84781acc2d7",
+          "box": null,
           "points": "55.56,36.28 58.01,36.28 58.01,63.87 55.56,63.87"
         }
       ]
@@ -499,10 +582,12 @@
       "items": [
         {
           "id": "1788385835770",
+          "box": null,
           "points": "24.91,21.7 29.18,21.7 29.18,47.33 24.91,47.33"
         },
         {
           "id": "1788385870152",
+          "box": null,
           "points": "57.64,25.63 61.15,25.63 61.15,49.69 57.64,49.69"
         }
       ]
@@ -515,14 +600,17 @@
       "items": [
         {
           "id": "i_55ed7827-67e8-40e4-a21b-b8c878944e12",
+          "box": null,
           "points": "44.91,24.86 49.58,24.86 49.58,64.29 44.91,64.29"
         },
         {
           "id": "i_471baaed-46f7-4d59-b82f-9c36cc5fd385",
+          "box": null,
           "points": "64.09,26.57 67.42,26.57 67.42,54.71 64.09,54.71"
         },
         {
           "id": "i_a43fb7b3-aa33-4853-afda-bd659402a7c2",
+          "box": null,
           "points": "78.29,17 83.46,17 83.46,55.71 78.29,55.71"
         }
       ]
