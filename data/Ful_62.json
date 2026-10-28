@@ -1,0 +1,980 @@
+{
+  "id": "Ful 62",
+  "source": "Ful 62",
+  "name": "Ful 62",
+  "notes": "Notator A: f. 91–92v, f. 92, f. 10, f. 34 –34v.\nNotator B: f. 136 –136v.\n\n",
+  "kind": "iiif",
+  "rows": [
+    {
+      "pattern": "*",
+      "refId": "10",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*eddu",
+      "refId": "11",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*eu",
+      "refId": "12",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*d]",
+      "refId": "20",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*du]",
+      "refId": "21",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*dud]",
+      "refId": "22",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*dd",
+      "refId": "30",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*u]",
+      "refId": "40",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*ud]",
+      "refId": "41",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*udu]",
+      "refId": "42",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*udu]u",
+      "refId": "43",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*u]dd",
+      "refId": "44",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*u]ddu",
+      "refId": "45",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*uu",
+      "refId": "50",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*u[ud]",
+      "refId": "51",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*SeS",
+      "refId": "61",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*SeSeS",
+      "refId": "61",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*SeSu",
+      "refId": "61",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*ueO]d",
+      "refId": "71",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*u]eO",
+      "refId": "72",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*deO]",
+      "refId": "73",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*dudeO]",
+      "refId": "73",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*Qu]",
+      "refId": "81",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*dL]",
+      "refId": "10+/20- ",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*ddL]",
+      "refId": "20+",
+      "notes": "",
+      "tier": "expanded"
+    }
+  ],
+  "snippets": [
+    {
+      "id": "1787584961789",
+      "pattern": "*eu",
+      "variant": "",
+      "refId": "12",
+      "folio": "34r",
+      "line": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000069.tif/pct:50.560,75.630,6.290,3.840/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000069.tif/pct:50.560,75.630,6.290,3.840/1200,/0/default.jpg",
+      "lineId": "r_1787584729425"
+    },
+    {
+      "id": "1788282537820",
+      "pattern": "[*u]eO",
+      "variant": "",
+      "refId": "72",
+      "folio": "34v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:32.910,10.290,4.930,5.300/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:32.910,10.290,4.930,5.300/1200,/0/default.jpg",
+      "lineId": "r_1788282490335"
+    },
+    {
+      "id": "1788282597890",
+      "pattern": "*",
+      "variant": "a",
+      "refId": "10a",
+      "folio": "34v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:39.170,11.880,5.030,3.840/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:39.170,11.880,5.030,3.840/1200,/0/default.jpg",
+      "lineId": "r_1788282490335"
+    },
+    {
+      "id": "1788282628287",
+      "pattern": "[*u]ddu",
+      "variant": "",
+      "refId": "45",
+      "folio": "34v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:49.340,10.160,7.970,5.430/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:49.340,10.160,7.970,5.430/1200,/0/default.jpg",
+      "lineId": "r_1788282490335"
+    },
+    {
+      "id": "1788282673709",
+      "pattern": "*SeS",
+      "variant": "",
+      "refId": "61",
+      "folio": "34v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:62.540,10.030,5.230,3.520/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:62.540,10.030,5.230,3.520/1200,/0/default.jpg",
+      "lineId": "r_1788282490335"
+    },
+    {
+      "id": "1788282705727",
+      "pattern": "*",
+      "variant": "a",
+      "refId": "10a",
+      "folio": "34v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:69.580,9.970,4.840,4.630/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:69.580,9.970,4.840,4.630/1200,/0/default.jpg",
+      "lineId": "r_1788282490335"
+    },
+    {
+      "id": "1788282727546",
+      "pattern": "[*d]",
+      "variant": "a",
+      "refId": "20a",
+      "folio": "34v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:75.060,9.170,4.940,5.300/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:75.060,9.170,4.940,5.300/1200,/0/default.jpg",
+      "lineId": "r_1788282490335"
+    },
+    {
+      "id": "1788282803455",
+      "pattern": "[*du]",
+      "variant": "",
+      "refId": "21",
+      "folio": "34v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:22.980,17.750,5.950,4.340/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:22.980,17.750,5.950,4.340/1200,/0/default.jpg",
+      "lineId": "r_1788282763676"
+    },
+    {
+      "id": "1788282826211",
+      "pattern": "*uu",
+      "variant": "",
+      "refId": "50",
+      "folio": "34v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:33.940,18.950,4.740,4.600/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:33.940,18.950,4.740,4.600/1200,/0/default.jpg",
+      "lineId": "r_1788282763676"
+    },
+    {
+      "id": "1788282852356",
+      "pattern": "[*dud]",
+      "variant": "",
+      "refId": "22",
+      "folio": "34v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:37.000,18.620,5.060,4.930/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:37.000,18.620,5.060,4.930/1200,/0/default.jpg",
+      "lineId": "r_1788282763676"
+    },
+    {
+      "id": "1788282934290",
+      "pattern": "[*u]dd",
+      "variant": "",
+      "refId": "44",
+      "folio": "34v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:52.070,17.610,6.350,5.470/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:52.070,17.610,6.350,5.470/1200,/0/default.jpg",
+      "lineId": "r_1788282763676"
+    },
+    {
+      "id": "1788283179806",
+      "pattern": "[*udu]u",
+      "variant": "",
+      "refId": "43",
+      "folio": "34v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:88.820,26.270,5.940,6.050/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:88.820,26.270,5.940,6.050/1200,/0/default.jpg",
+      "lineId": "r_1788282964642"
+    },
+    {
+      "id": "1790607466011",
+      "pattern": "[*du]",
+      "variant": "",
+      "refId": "21",
+      "folio": "91r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:15.780,56.390,5.220,4.040/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:15.780,56.390,5.220,4.040/1200,/0/default.jpg",
+      "lineId": "r_1788283254651"
+    },
+    {
+      "id": "1790607484865",
+      "pattern": "[*dL]",
+      "variant": "",
+      "refId": "10+/20- ",
+      "folio": "91r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:27.080,55.550,4.640,4.080/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:27.080,55.550,4.640,4.080/1200,/0/default.jpg",
+      "lineId": "r_1788283254651"
+    },
+    {
+      "id": "1790607514220",
+      "pattern": "[*u]",
+      "variant": "a",
+      "refId": "40a",
+      "folio": "91r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:34.150,53.750,4.740,4.100/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:34.150,53.750,4.740,4.100/1200,/0/default.jpg",
+      "lineId": "r_1788283254651"
+    },
+    {
+      "id": "1790607545532",
+      "pattern": "[*u]",
+      "variant": "a",
+      "refId": "40a",
+      "folio": "91r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:73.200,51.930,4.580,4.250/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:73.200,51.930,4.580,4.250/1200,/0/default.jpg",
+      "lineId": "r_1788283254651"
+    },
+    {
+      "id": "1790607566735",
+      "pattern": "*dd",
+      "variant": "",
+      "refId": "30",
+      "folio": "91r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:76.070,51.780,4.990,4.380/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:76.070,51.780,4.990,4.380/1200,/0/default.jpg",
+      "lineId": "r_1788283254651"
+    },
+    {
+      "id": "1788283941629",
+      "pattern": "[*u]",
+      "variant": "a",
+      "refId": "40a",
+      "folio": "91v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:58.160,11.310,4.820,4.040/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:58.160,11.310,4.820,4.040/1200,/0/default.jpg",
+      "lineId": "r_1788283783516"
+    },
+    {
+      "id": "1788283961530",
+      "pattern": "*uu",
+      "variant": "",
+      "refId": "50",
+      "folio": "91v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:88.560,9.720,5.030,4.990/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:88.560,9.720,5.030,4.990/1200,/0/default.jpg",
+      "lineId": "r_1788283783516"
+    },
+    {
+      "id": "1788284067930",
+      "pattern": "[*u]",
+      "variant": "b",
+      "refId": "40b",
+      "folio": "91v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:65.220,18.590,4.590,6.140/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:65.220,18.590,4.590,6.140/1200,/0/default.jpg",
+      "lineId": "r_1788284003127"
+    },
+    {
+      "id": "1788284091038",
+      "pattern": "[*ud]",
+      "variant": "",
+      "refId": "41",
+      "folio": "91v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:70.260,17.550,5.840,5.140/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:70.260,17.550,5.840,5.140/1200,/0/default.jpg",
+      "lineId": "r_1788284003127"
+    },
+    {
+      "id": "1788284227050",
+      "pattern": "[*Qu]",
+      "variant": "",
+      "refId": "81",
+      "folio": "92r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:19.200,70.030,5.260,4.790/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:19.200,70.030,5.260,4.790/1200,/0/default.jpg",
+      "lineId": "r_1788284204287"
+    },
+    {
+      "id": "1788284251733",
+      "pattern": "[*d]",
+      "variant": "b",
+      "refId": "20b",
+      "folio": "92r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:22.410,71.320,4.320,3.690/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:22.410,71.320,4.320,3.690/1200,/0/default.jpg",
+      "lineId": "r_1788284204287"
+    },
+    {
+      "id": "1788284290397",
+      "pattern": "[*ueO]d",
+      "variant": "",
+      "refId": "71",
+      "folio": "92r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:30.280,69.450,6.040,4.360/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:30.280,69.450,6.040,4.360/1200,/0/default.jpg",
+      "lineId": "r_1788284204287"
+    },
+    {
+      "id": "1788284353384",
+      "pattern": "[*deO]",
+      "variant": "",
+      "refId": "73",
+      "folio": "92r",
+      "line": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:48.600,68.800,5.830,4.580/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:48.600,68.800,5.830,4.580/1200,/0/default.jpg",
+      "lineId": "r_1788284204287"
+    },
+    {
+      "id": "1788284468388",
+      "pattern": "*eddu",
+      "variant": "",
+      "refId": "11",
+      "folio": "92r",
+      "line": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:30.590,76.760,7.560,5.650/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:30.590,76.760,7.560,5.650/1200,/0/default.jpg",
+      "lineId": "r_1788284401416"
+    },
+    {
+      "id": "1788284558249",
+      "pattern": "[*u]dd",
+      "variant": "",
+      "refId": "44",
+      "folio": "92r",
+      "line": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:48.920,74.660,5.730,4.860/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:48.920,74.660,5.730,4.860/1200,/0/default.jpg",
+      "lineId": "r_1788284401416"
+    },
+    {
+      "id": "1788284572867",
+      "pattern": "[*ddL]",
+      "variant": "",
+      "refId": "20+",
+      "folio": "92r",
+      "line": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:52.980,76.310,4.310,4.700/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:52.980,76.310,4.310,4.700/1200,/0/default.jpg",
+      "lineId": "r_1788284401416"
+    },
+    {
+      "id": "1790607879239",
+      "pattern": "*u[ud]",
+      "variant": "",
+      "refId": "51",
+      "folio": "136r",
+      "line": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000273.tif/pct:74.220,68.670,6.790,4.960/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000273.tif/pct:74.220,68.670,6.790,4.960/1200,/0/default.jpg",
+      "lineId": "r_1788284697635"
+    },
+    {
+      "id": "1788285393011",
+      "pattern": "*dd",
+      "variant": "",
+      "refId": "30",
+      "folio": "136v",
+      "line": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:67.090,11.460,5.010,4.700/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:67.090,11.460,5.010,4.700/1200,/0/default.jpg",
+      "lineId": "r_1788285302255"
+    },
+    {
+      "id": "1788285449758",
+      "pattern": "*SeSeS",
+      "variant": "",
+      "refId": "61",
+      "folio": "136v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:32.380,19.650,6.270,3.570/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:32.380,19.650,6.270,3.570/1200,/0/default.jpg",
+      "lineId": "r_1788285424774"
+    },
+    {
+      "id": "1788285477765",
+      "pattern": "*",
+      "variant": "b",
+      "refId": "10b",
+      "folio": "136v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:36.240,21.540,4.900,4.170/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:36.240,21.540,4.900,4.170/1200,/0/default.jpg",
+      "lineId": "r_1788285424774"
+    },
+    {
+      "id": "1788285509160",
+      "pattern": "[*dud]",
+      "variant": "",
+      "refId": "22",
+      "folio": "136v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:45.090,20.460,6.260,5.520/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:45.090,20.460,6.260,5.520/1200,/0/default.jpg",
+      "lineId": "r_1788285424774"
+    },
+    {
+      "id": "1788285656795",
+      "pattern": "[*u]",
+      "variant": "a",
+      "refId": "40a",
+      "folio": "136v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:64.470,18.900,5.140,4.660/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:64.470,18.900,5.140,4.660/1200,/0/default.jpg",
+      "lineId": "r_1788285424774"
+    },
+    {
+      "id": "1788285687352",
+      "pattern": "*",
+      "variant": "a",
+      "refId": "10a",
+      "folio": "136v",
+      "line": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:75.330,19.390,4.410,4.820/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:75.330,19.390,4.410,4.820/1200,/0/default.jpg",
+      "lineId": "r_1788285424774"
+    },
+    {
+      "id": "1788285779506",
+      "pattern": "[*u]",
+      "variant": "b",
+      "refId": "40b",
+      "folio": "136v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:30.110,27.640,5.060,5.910/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:30.110,27.640,5.060,5.910/1200,/0/default.jpg",
+      "lineId": "r_1788285736304"
+    },
+    {
+      "id": "1788285815334",
+      "pattern": "[*udu]",
+      "variant": "",
+      "refId": "42",
+      "folio": "136v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:38.430,27.550,7.210,6.360/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:38.430,27.550,7.210,6.360/1200,/0/default.jpg",
+      "lineId": "r_1788285736304"
+    },
+    {
+      "id": "1788285852521",
+      "pattern": "[*u]ddu",
+      "variant": "",
+      "refId": "45",
+      "folio": "136v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:43.640,27.720,7.090,6.230/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:43.640,27.720,7.090,6.230/1200,/0/default.jpg",
+      "lineId": "r_1788285736304"
+    },
+    {
+      "id": "1788285901558",
+      "pattern": "[*d]",
+      "variant": "a",
+      "refId": "20a",
+      "folio": "136v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:48.850,28.770,4.580,5.310/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:48.850,28.770,4.580,5.310/1200,/0/default.jpg",
+      "lineId": "r_1788285736304"
+    },
+    {
+      "id": "1788285935908",
+      "pattern": "*SeS",
+      "variant": "",
+      "refId": "61",
+      "folio": "136v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:56.750,27.760,5.240,3.570/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:56.750,27.760,5.240,3.570/1200,/0/default.jpg",
+      "lineId": "r_1788285736304"
+    },
+    {
+      "id": "1788285978272",
+      "pattern": "[*deO]",
+      "variant": "",
+      "refId": "73",
+      "folio": "136v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:69.460,27.380,5.280,4.380/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:69.460,27.380,5.280,4.380/1200,/0/default.jpg",
+      "lineId": "r_1788285736304"
+    },
+    {
+      "id": "1788286007912",
+      "pattern": "*SeSu",
+      "variant": "",
+      "refId": "61",
+      "folio": "136v",
+      "line": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:79.810,27.400,5.920,3.980/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:79.810,27.400,5.920,3.980/1200,/0/default.jpg",
+      "lineId": "r_1788285736304"
+    },
+    {
+      "id": "1788286089198",
+      "pattern": "*uu",
+      "variant": "",
+      "refId": "50",
+      "folio": "136v",
+      "line": "Line 5",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:42.320,45.050,5.290,5.640/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:42.320,45.050,5.290,5.640/1200,/0/default.jpg",
+      "lineId": "r_1788286058005"
+    },
+    {
+      "id": "1788286120812",
+      "pattern": "[*dudeO]",
+      "variant": "",
+      "refId": "73",
+      "folio": "136v",
+      "line": "Line 5",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:45.680,45.140,5.930,4.780/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:45.680,45.140,5.930,4.780/1200,/0/default.jpg",
+      "lineId": "r_1788286058005"
+    },
+    {
+      "id": "1788286150806",
+      "pattern": "[*du]",
+      "variant": "",
+      "refId": "21",
+      "folio": "136v",
+      "line": "Line 5",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:55.890,43.770,4.980,5.630/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:55.890,43.770,4.980,5.630/1200,/0/default.jpg",
+      "lineId": "r_1788286058005"
+    },
+    {
+      "id": "1788286169030",
+      "pattern": "[*u]dd",
+      "variant": "",
+      "refId": "44",
+      "folio": "136v",
+      "line": "Line 5",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:58.800,44.160,5.490,5.760/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:58.800,44.160,5.490,5.760/1200,/0/default.jpg",
+      "lineId": "r_1788286058005"
+    },
+    {
+      "id": "1788286192633",
+      "pattern": "[*ud]",
+      "variant": "",
+      "refId": "41",
+      "folio": "136v",
+      "line": "Line 5",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:67.620,45.480,5.290,4.610/300,/0/default.jpg",
+      "zoom": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:67.620,45.480,5.290,4.610/1200,/0/default.jpg",
+      "lineId": "r_1788286058005"
+    }
+  ],
+  "lines": [
+    {
+      "id": "r_1787584729425",
+      "folio": "34r",
+      "name": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000069.tif/pct:1.994,75.170,91.641,11.750/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1787584961789",
+          "points": "54.09,12.43 58.77,12.43 58.77,28.09 54.09,28.09"
+        }
+      ]
+    },
+    {
+      "id": "r_1788282490335",
+      "folio": "34v",
+      "name": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:10.824,8.630,86.372,10.490/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788282537820",
+          "points": "26.73,25.36 30.12,25.36 30.12,56.82 26.73,56.82"
+        },
+        {
+          "id": "1788282597890",
+          "points": "33.98,40.51 37.48,40.51 37.48,58.06 33.98,58.06"
+        },
+        {
+          "id": "1788282628287",
+          "points": "45.75,24.12 52.66,24.12 52.66,56.82 45.75,56.82"
+        },
+        {
+          "id": "1788282673709",
+          "points": "61.03,22.88 64.77,22.88 64.77,37.37 61.03,37.37"
+        },
+        {
+          "id": "1788282705727",
+          "points": "69.18,22.31 72.47,22.31 72.47,47.38 69.18,47.38"
+        },
+        {
+          "id": "1788282727546",
+          "points": "75.53,14.68 78.93,14.68 78.93,46.14 75.53,46.14"
+        }
+      ]
+    },
+    {
+      "id": "r_1788282763676",
+      "folio": "34v",
+      "name": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:12.337,17.180,86.097,9.720/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788282803455",
+          "points": "13.52,16.15 18.11,16.15 18.11,40.23 13.52,40.23"
+        },
+        {
+          "id": "1788282826211",
+          "points": "26.25,28.5 29.44,28.5 29.44,55.25 26.25,55.25"
+        },
+        {
+          "id": "1788282852356",
+          "points": "29.81,25.1 33.36,25.1 33.36,55.25 29.81,55.25"
+        },
+        {
+          "id": "1788282934290",
+          "points": "47.31,14.71 52.36,14.71 52.36,50.41 47.31,50.41"
+        }
+      ]
+    },
+    {
+      "id": "r_1788282964642",
+      "folio": "34v",
+      "name": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000070.tif/pct:12.165,24.550,87.021,9.570/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788283179806",
+          "points": "89.24,28.42 93.77,28.42 93.77,70.74 89.24,70.74"
+        }
+      ]
+    },
+    {
+      "id": "r_1788283254651",
+      "folio": "91r",
+      "name": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000183.tif/pct:3.233,51.730,86.614,11.090/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1790607466011",
+          "points": "15.64,51.04 19.36,51.04 19.36,69.43 15.64,69.43"
+        },
+        {
+          "id": "1790607484865",
+          "points": "28.69,43.46 31.74,43.46 31.74,62.22 28.69,62.22"
+        },
+        {
+          "id": "1790607514220",
+          "points": "36.85,27.23 40.01,27.23 40.01,46.17 36.85,46.17"
+        },
+        {
+          "id": "1790607545532",
+          "points": "81.93,10.82 84.91,10.82 84.91,31.11 81.93,31.11"
+        },
+        {
+          "id": "1790607566735",
+          "points": "85.25,9.47 88.7,9.47 88.7,30.93 85.25,30.93"
+        }
+      ]
+    },
+    {
+      "id": "r_1788283783516",
+      "folio": "91v",
+      "name": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:11.527,8.860,86.977,10.580/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788283941629",
+          "points": "54.77,32.61 58.01,32.61 58.01,51.89 54.77,51.89"
+        },
+        {
+          "id": "1788283961530",
+          "points": "89.72,17.58 93.2,17.58 93.2,45.84 89.72,45.84"
+        }
+      ]
+    },
+    {
+      "id": "r_1788284003127",
+      "folio": "91v",
+      "name": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000184.tif/pct:11.526,16.720,86.988,9.760/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788284067930",
+          "points": "62.88,29.41 65.85,29.41 65.85,71.82 62.88,71.82"
+        },
+        {
+          "id": "1788284091038",
+          "points": "68.67,18.75 73.08,18.75 73.08,50.92 68.67,50.92"
+        }
+      ]
+    },
+    {
+      "id": "r_1788284204287",
+      "folio": "92r",
+      "name": "Line 9",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:2.275,67.200,94.050,9.080/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788284227050",
+          "points": "19.06,42.18 22.53,42.18 22.53,72.91 19.06,72.91"
+        },
+        {
+          "id": "1788284251733",
+          "points": "22.47,56.39 24.94,56.39 24.94,75 22.47,75"
+        },
+        {
+          "id": "1788284290397",
+          "points": "30.84,35.79 35.14,35.79 35.14,61.78 30.84,61.78"
+        },
+        {
+          "id": "1788284353384",
+          "points": "50.32,28.63 54.39,28.63 54.39,57.05 50.32,57.05"
+        }
+      ]
+    },
+    {
+      "id": "r_1788284401416",
+      "folio": "92r",
+      "name": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000185.tif/pct:1.989,73.380,98.011,10.740/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788284468388",
+          "points": "30.2,40.78 35.87,40.78 35.87,74.77 30.2,74.77"
+        },
+        {
+          "id": "1788284558249",
+          "points": "48.9,21.23 52.71,21.23 52.71,47.86 48.9,47.86"
+        },
+        {
+          "id": "1788284572867",
+          "points": "53.05,36.59 55.4,36.59 55.4,61.73 53.05,61.73"
+        }
+      ]
+    },
+    {
+      "id": "r_1788284697635",
+      "folio": "136r",
+      "name": "Line 10",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000273.tif/pct:4.420,67.560,80.300,11.300/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1790607879239",
+          "points": "88.17,18.67 94.13,18.67 94.13,44.87 88.17,44.87"
+        }
+      ]
+    },
+    {
+      "id": "r_1788285302255",
+      "folio": "136v",
+      "name": "Line 1",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:10.918,8.360,85.624,12.840/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788285393011",
+          "points": "66.77,31.93 70.29,31.93 70.29,52.96 66.77,52.96"
+        }
+      ]
+    },
+    {
+      "id": "r_1788285424774",
+      "folio": "136v",
+      "name": "Line 2",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:10.964,18.950,85.932,10.440/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788285449758",
+          "points": "26.09,16.28 31.05,16.28 31.05,31.32 26.09,31.32"
+        },
+        {
+          "id": "1788285477765",
+          "points": "30.58,34.39 33.95,34.39 33.95,55.17 30.58,55.17"
+        },
+        {
+          "id": "1788285509160",
+          "points": "40.88,24.04 45.83,24.04 45.83,57.76 40.88,57.76"
+        },
+        {
+          "id": "1788285656795",
+          "points": "63.43,9.1 67.08,9.1 67.08,34.58 63.43,34.58"
+        },
+        {
+          "id": "1788285687352",
+          "points": "76.07,13.79 78.87,13.79 78.87,40.8 76.07,40.8"
+        }
+      ]
+    },
+    {
+      "id": "r_1788285736304",
+      "folio": "136v",
+      "name": "Line 3",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:11.270,27.320,85.151,10.610/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788285779506",
+          "points": "23.3,12.44 26.89,12.44 26.89,49.29 23.3,49.29"
+        },
+        {
+          "id": "1788285815334",
+          "points": "33.07,11.59 39.19,11.59 39.19,52.69 33.07,52.69"
+        },
+        {
+          "id": "1788285852521",
+          "points": "39.19,13.2 45.17,13.2 45.17,53.06 39.19,53.06"
+        },
+        {
+          "id": "1788285901558",
+          "points": "45.31,23.09 48.34,23.09 48.34,54.29 45.31,54.29"
+        },
+        {
+          "id": "1788285935908",
+          "points": "54.59,13.57 58.39,13.57 58.39,28.37 54.59,28.37"
+        },
+        {
+          "id": "1788285978272",
+          "points": "69.51,9.99 73.36,9.99 73.36,32.42 69.51,32.42"
+        },
+        {
+          "id": "1788286007912",
+          "points": "81.67,10.18 86.27,10.18 86.27,28.84 81.67,28.84"
+        }
+      ]
+    },
+    {
+      "id": "r_1788286058005",
+      "folio": "136v",
+      "name": "Line 5",
+      "image": "https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN314755292/files/images/00000274.tif/pct:12.534,43.280,81.983,10.210/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788286089198",
+          "points": "37.55,27.13 41.57,27.13 41.57,62.78 37.55,62.78"
+        },
+        {
+          "id": "1788286120812",
+          "points": "41.65,28.01 46.44,28.01 46.44,55.24 41.65,55.24"
+        },
+        {
+          "id": "1788286150806",
+          "points": "54.1,14.59 57.74,14.59 57.74,50.15 54.1,50.15"
+        },
+        {
+          "id": "1788286169030",
+          "points": "57.65,18.41 61.91,18.41 61.91,55.24 57.65,55.24"
+        },
+        {
+          "id": "1788286192633",
+          "points": "68.41,31.34 72.43,31.34 72.43,56.9 68.41,56.9"
+        }
+      ]
+    }
+  ]
+}

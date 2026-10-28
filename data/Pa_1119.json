@@ -1,0 +1,1179 @@
+{
+  "id": "Pa 1119",
+  "source": "Pa 1119",
+  "name": "Pa 1119",
+  "notes": "",
+  "kind": "iiif",
+  "rows": [
+    {
+      "pattern": "*",
+      "refId": "10",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*e",
+      "refId": "11",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*ed",
+      "refId": "13",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*d",
+      "refId": "30",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*dd",
+      "refId": "31",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*ddu",
+      "refId": "32",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*du",
+      "refId": "33",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*d[ud]",
+      "refId": "34",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*u",
+      "refId": "50",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*[ud]",
+      "refId": "51",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*[udu]",
+      "refId": "52",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*ud",
+      "refId": "53",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*udd",
+      "refId": "54",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*uu",
+      "refId": "55",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*u[ud]",
+      "refId": "56",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*uudd",
+      "refId": "57",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*eO",
+      "refId": "71",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*eOd",
+      "refId": "72",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*eOu",
+      "refId": "73",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*[ueO]",
+      "refId": "74",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*[uQu]",
+      "refId": "81",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*dL]",
+      "refId": "10+/30-",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*uL]",
+      "refId": "10+/50-",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*[edL]",
+      "refId": "11+/13-",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*[udL]",
+      "refId": "50+/51-",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*[uddL]",
+      "refId": "51+",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*[eOdL]",
+      "refId": "71+",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*[uQudL]",
+      "refId": "81+",
+      "notes": "",
+      "tier": "expanded"
+    }
+  ],
+  "snippets": [
+    {
+      "id": "1778846973862",
+      "pattern": "*ed",
+      "variant": "",
+      "refId": "13",
+      "folio": "7r",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:63.670,41.580,6.180,4.000/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:63.670,41.580,6.180,4.000/1200,/0/default.jpg",
+      "lineId": "r_1778846956359"
+    },
+    {
+      "id": "1778847009014",
+      "pattern": "*u[ud]",
+      "variant": "",
+      "refId": "56",
+      "folio": "7r",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:50.780,40.460,7.010,5.490/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:50.780,40.460,7.010,5.490/1200,/0/default.jpg",
+      "lineId": "r_1778846956359"
+    },
+    {
+      "id": "1778847029695",
+      "pattern": "*u",
+      "variant": "a",
+      "refId": "50a",
+      "folio": "7r",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:71.220,42.230,5.200,4.050/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:71.220,42.230,5.200,4.050/1200,/0/default.jpg",
+      "lineId": "r_1778846956359"
+    },
+    {
+      "id": "1778847041950",
+      "pattern": "*u",
+      "variant": "b",
+      "refId": "50b",
+      "folio": "7r",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:20.670,42.740,4.790,4.140/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:20.670,42.740,4.790,4.140/1200,/0/default.jpg",
+      "lineId": "r_1778846956359"
+    },
+    {
+      "id": "1778851177276",
+      "pattern": "*u",
+      "variant": "c",
+      "refId": "50c",
+      "folio": "24v",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:33.830,51.690,8.170,8.020/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:33.830,51.690,8.170,8.020/1200,/0/default.jpg",
+      "lineId": "r_1778851164787"
+    },
+    {
+      "id": "1778851199291",
+      "pattern": "*u",
+      "variant": "a",
+      "refId": "50a",
+      "folio": "24v",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:56.650,52.720,5.490,4.050/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:56.650,52.720,5.490,4.050/1200,/0/default.jpg",
+      "lineId": "r_1778851164787"
+    },
+    {
+      "id": "1778851219235",
+      "pattern": "*eOu",
+      "variant": "",
+      "refId": "73",
+      "folio": "24v",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:87.260,54.840,6.780,5.080/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:87.260,54.840,6.780,5.080/1200,/0/default.jpg",
+      "lineId": "r_1778851164787"
+    },
+    {
+      "id": "1778851238179",
+      "pattern": "[*dL]",
+      "variant": "",
+      "refId": "10+/30-",
+      "folio": "24v",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:41.050,51.970,4.450,3.980/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:41.050,51.970,4.450,3.980/1200,/0/default.jpg",
+      "lineId": "r_1778851164787"
+    },
+    {
+      "id": "1778850923844",
+      "pattern": "*ddu",
+      "variant": "a",
+      "refId": "32a",
+      "folio": "25r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:24.270,35.830,5.800,5.220/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:24.270,35.830,5.800,5.220/1200,/0/default.jpg",
+      "lineId": "r_1778850906708"
+    },
+    {
+      "id": "1778850937108",
+      "pattern": "[*uL]",
+      "variant": "",
+      "refId": "10+/50-",
+      "folio": "25r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:28.690,37.130,5.310,4.880/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:28.690,37.130,5.310,4.880/1200,/0/default.jpg",
+      "lineId": "r_1778850906708"
+    },
+    {
+      "id": "1778850951163",
+      "pattern": "*du",
+      "variant": "",
+      "refId": "33",
+      "folio": "25r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:44.770,37.820,5.680,4.600/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:44.770,37.820,5.680,4.600/1200,/0/default.jpg",
+      "lineId": "r_1778850906708"
+    },
+    {
+      "id": "1778850965444",
+      "pattern": "*[ud]",
+      "variant": "",
+      "refId": "51",
+      "folio": "25r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:49.190,35.760,5.810,5.420/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:49.190,35.760,5.810,5.420/1200,/0/default.jpg",
+      "lineId": "r_1778850906708"
+    },
+    {
+      "id": "1778850982013",
+      "pattern": "*d",
+      "variant": "",
+      "refId": "30",
+      "folio": "25r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:66.990,34.810,4.710,4.190/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:66.990,34.810,4.710,4.190/1200,/0/default.jpg",
+      "lineId": "r_1778850906708"
+    },
+    {
+      "id": "1778851597906",
+      "pattern": "*u[ud]",
+      "variant": "",
+      "refId": "56",
+      "folio": "25r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:34.910,44.040,6.750,5.220/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:34.910,44.040,6.750,5.220/1200,/0/default.jpg",
+      "lineId": "r_1778851577922"
+    },
+    {
+      "id": "1778851612018",
+      "pattern": "*udd",
+      "variant": "b",
+      "refId": "54b",
+      "folio": "25r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:17.140,44.770,6.280,5.260/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:17.140,44.770,6.280,5.260/1200,/0/default.jpg",
+      "lineId": "r_1778851577922"
+    },
+    {
+      "id": "1778851627113",
+      "pattern": "*u",
+      "variant": "b",
+      "refId": "50b",
+      "folio": "25r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:11.930,44.920,5.070,3.970/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:11.930,44.920,5.070,3.970/1200,/0/default.jpg",
+      "lineId": "r_1778851577922"
+    },
+    {
+      "id": "1778851641242",
+      "pattern": "*u",
+      "variant": "c",
+      "refId": "50c",
+      "folio": "25r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:48.500,42.120,6.090,6.930/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:48.500,42.120,6.090,6.930/1200,/0/default.jpg",
+      "lineId": "r_1778851577922"
+    },
+    {
+      "id": "1778847887372",
+      "pattern": "*[udL]",
+      "variant": "b",
+      "refId": "50+/51-b",
+      "folio": "50r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f105/pct:35.430,39.070,5.390,4.550/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f105/pct:35.430,39.070,5.390,4.550/1200,/0/default.jpg",
+      "lineId": "r_1778847865165"
+    },
+    {
+      "id": "1778847908036",
+      "pattern": "*eOd",
+      "variant": "",
+      "refId": "72",
+      "folio": "50r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f105/pct:30.960,37.910,6.110,4.440/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f105/pct:30.960,37.910,6.110,4.440/1200,/0/default.jpg",
+      "lineId": "r_1778847865165"
+    },
+    {
+      "id": "1778851793298",
+      "pattern": "*[ueO]",
+      "variant": "",
+      "refId": "74",
+      "folio": "60r",
+      "line": "Line 4",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f125/pct:30.970,32.750,7.510,5.530/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f125/pct:30.970,32.750,7.510,5.530/1200,/0/default.jpg",
+      "lineId": "r_1778851768098"
+    },
+    {
+      "id": "1778847243086",
+      "pattern": "*ud",
+      "variant": "",
+      "refId": "53",
+      "folio": "84r",
+      "line": "Line 6",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f173/pct:8.650,56.580,5.620,6.370/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f173/pct:8.650,56.580,5.620,6.370/1200,/0/default.jpg",
+      "lineId": "r_1778847224830"
+    },
+    {
+      "id": "1778847260574",
+      "pattern": "*[eOdL]",
+      "variant": "",
+      "refId": "71+",
+      "folio": "84r",
+      "line": "Line 6",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f173/pct:61.510,58.960,6.130,3.990/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f173/pct:61.510,58.960,6.130,3.990/1200,/0/default.jpg",
+      "lineId": "r_1778847224830"
+    },
+    {
+      "id": "1778847278382",
+      "pattern": "*eO",
+      "variant": "",
+      "refId": "71",
+      "folio": "84r",
+      "line": "Line 6",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f173/pct:40.520,59.810,5.960,3.530/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f173/pct:40.520,59.810,5.960,3.530/1200,/0/default.jpg",
+      "lineId": "r_1778847224830"
+    },
+    {
+      "id": "1778852110392",
+      "pattern": "*[uQu]",
+      "variant": "",
+      "refId": "81",
+      "folio": "84v",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f174/pct:44.050,26.240,5.890,4.960/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f174/pct:44.050,26.240,5.890,4.960/1200,/0/default.jpg",
+      "lineId": "r_1778852090097"
+    },
+    {
+      "id": "1778852120425",
+      "pattern": "*[uQu]",
+      "variant": "",
+      "refId": "81",
+      "folio": "84v",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f174/pct:68.720,23.890,6.360,4.070/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f174/pct:68.720,23.890,6.360,4.070/1200,/0/default.jpg",
+      "lineId": "r_1778852090097"
+    },
+    {
+      "id": "1778852143888",
+      "pattern": "*[ueO]",
+      "variant": "",
+      "refId": "74",
+      "folio": "84v",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f174/pct:41.300,25.960,5.220,4.400/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f174/pct:41.300,25.960,5.220,4.400/1200,/0/default.jpg",
+      "lineId": "r_1778852090097"
+    },
+    {
+      "id": "1778850746908",
+      "pattern": "*e",
+      "variant": "",
+      "refId": "11",
+      "folio": "85r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:46.620,16.410,4.670,2.830/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:46.620,16.410,4.670,2.830/1200,/0/default.jpg",
+      "lineId": "r_1778850729517"
+    },
+    {
+      "id": "1778850760556",
+      "pattern": "*eO",
+      "variant": "",
+      "refId": "71",
+      "folio": "85r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:50.270,15.670,4.670,3.080/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:50.270,15.670,4.670,3.080/1200,/0/default.jpg",
+      "lineId": "r_1778850729517"
+    },
+    {
+      "id": "1778850768668",
+      "pattern": "*[eOdL]",
+      "variant": "",
+      "refId": "71+",
+      "folio": "85r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:36.290,17.040,6.000,3.820/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:36.290,17.040,6.000,3.820/1200,/0/default.jpg",
+      "lineId": "r_1778850729517"
+    },
+    {
+      "id": "1778850777924",
+      "pattern": "*ed",
+      "variant": "",
+      "refId": "13",
+      "folio": "85r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:52.730,16.790,5.230,3.740/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:52.730,16.790,5.230,3.740/1200,/0/default.jpg",
+      "lineId": "r_1778850729517"
+    },
+    {
+      "id": "1778850813988",
+      "pattern": "*[ud]",
+      "variant": "",
+      "refId": "51",
+      "folio": "85r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:57.650,17.580,4.950,4.740/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:57.650,17.580,4.950,4.740/1200,/0/default.jpg",
+      "lineId": "r_1778850729517"
+    },
+    {
+      "id": "1778852264600",
+      "pattern": "*[edL]",
+      "variant": "",
+      "refId": "11+/13-",
+      "folio": "85v",
+      "line": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f176/pct:62.810,43.550,5.310,4.380/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f176/pct:62.810,43.550,5.310,4.380/1200,/0/default.jpg",
+      "lineId": "r_1778852248008"
+    },
+    {
+      "id": "1778852276344",
+      "pattern": "*[ueO]",
+      "variant": "",
+      "refId": "74",
+      "folio": "85v",
+      "line": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f176/pct:80.470,43.840,6.340,3.940/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f176/pct:80.470,43.840,6.340,3.940/1200,/0/default.jpg",
+      "lineId": "r_1778852248008"
+    },
+    {
+      "id": "1778848074428",
+      "pattern": "*[udL]",
+      "variant": "a",
+      "refId": "50+/51-a",
+      "folio": "87r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:72.090,66.450,5.720,4.180/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:72.090,66.450,5.720,4.180/1200,/0/default.jpg",
+      "lineId": "r_1778848054748"
+    },
+    {
+      "id": "1778848094827",
+      "pattern": "*udd",
+      "variant": "a",
+      "refId": "54a",
+      "folio": "87r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:53.820,66.930,5.370,5.350/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:53.820,66.930,5.370,5.350/1200,/0/default.jpg",
+      "lineId": "r_1778848054748"
+    },
+    {
+      "id": "1778848106468",
+      "pattern": "*udd",
+      "variant": "b",
+      "refId": "54b",
+      "folio": "87r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:50.370,63.570,5.270,5.410/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:50.370,63.570,5.270,5.410/1200,/0/default.jpg",
+      "lineId": "r_1778848054748"
+    },
+    {
+      "id": "1778848144931",
+      "pattern": "*uu",
+      "variant": "c",
+      "refId": "55c",
+      "folio": "87r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:9.220,63.680,8.270,6.900/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:9.220,63.680,8.270,6.900/1200,/0/default.jpg",
+      "lineId": "r_1778848054748"
+    },
+    {
+      "id": "1778848159219",
+      "pattern": "*[udL]",
+      "variant": "a",
+      "refId": "50+/51-a",
+      "folio": "87r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:19.390,65.220,5.640,4.180/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:19.390,65.220,5.640,4.180/1200,/0/default.jpg",
+      "lineId": "r_1778848054748"
+    },
+    {
+      "id": "1778848179468",
+      "pattern": "*uu",
+      "variant": "a",
+      "refId": "55a",
+      "folio": "87r",
+      "line": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:58.460,65.010,7.630,7.270/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:58.460,65.010,7.630,7.270/1200,/0/default.jpg",
+      "lineId": "r_1778848054748"
+    },
+    {
+      "id": "1778851385491",
+      "pattern": "*ud",
+      "variant": "",
+      "refId": "53",
+      "folio": "92v",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:76.710,33.310,4.580,5.300/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:76.710,33.310,4.580,5.300/1200,/0/default.jpg",
+      "lineId": "r_1778851356259"
+    },
+    {
+      "id": "1778851401938",
+      "pattern": "*du",
+      "variant": "",
+      "refId": "33",
+      "folio": "92v",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:72.710,35.590,5.340,4.500/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:72.710,35.590,5.340,4.500/1200,/0/default.jpg",
+      "lineId": "r_1778851356259"
+    },
+    {
+      "id": "1778851413715",
+      "pattern": "*uudd",
+      "variant": "",
+      "refId": "57",
+      "folio": "92v",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:54.310,33.360,7.530,6.850/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:54.310,33.360,7.530,6.850/1200,/0/default.jpg",
+      "lineId": "r_1778851356259"
+    },
+    {
+      "id": "1778851445498",
+      "pattern": "*ddu",
+      "variant": "c",
+      "refId": "32c",
+      "folio": "92v",
+      "line": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:30.470,34.450,7.630,5.980/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:30.470,34.450,7.630,5.980/1200,/0/default.jpg",
+      "lineId": "r_1778851356259"
+    },
+    {
+      "id": "1778846824095",
+      "pattern": "*d[ud]",
+      "variant": "",
+      "refId": "34",
+      "folio": "111v",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:31.480,13.530,5.520,5.040/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:31.480,13.530,5.520,5.040/1200,/0/default.jpg",
+      "lineId": "r_1778846804319"
+    },
+    {
+      "id": "1778846836975",
+      "pattern": "[*uL]",
+      "variant": "",
+      "refId": "10+/50-",
+      "folio": "111v",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:26.610,13.280,5.520,4.410/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:26.610,13.280,5.520,4.410/1200,/0/default.jpg",
+      "lineId": "r_1778846804319"
+    },
+    {
+      "id": "1778846859727",
+      "pattern": "*eO",
+      "variant": "",
+      "refId": "71",
+      "folio": "111v",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:92.830,17.260,5.350,3.220/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:92.830,17.260,5.350,3.220/1200,/0/default.jpg",
+      "lineId": "r_1778846804319"
+    },
+    {
+      "id": "1778846874494",
+      "pattern": "*[ud]",
+      "variant": "",
+      "refId": "51",
+      "folio": "111v",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:83.690,15.590,5.100,3.720/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:83.690,15.590,5.100,3.720/1200,/0/default.jpg",
+      "lineId": "r_1778846804319"
+    },
+    {
+      "id": "1778846493649",
+      "pattern": "*[uQudL]",
+      "variant": "",
+      "refId": "81+",
+      "folio": "112r",
+      "line": "Line 4",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:41.050,50.870,8.560,4.390/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:41.050,50.870,8.560,4.390/1200,/0/default.jpg",
+      "lineId": "r_1778846472815"
+    },
+    {
+      "id": "1778846509423",
+      "pattern": "*[eOdL]",
+      "variant": "",
+      "refId": "71+",
+      "folio": "112r",
+      "line": "Line 4",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:54.670,51.590,6.530,4.210/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:54.670,51.590,6.530,4.210/1200,/0/default.jpg",
+      "lineId": "r_1778846472815"
+    },
+    {
+      "id": "1778846526888",
+      "pattern": "*dd",
+      "variant": "",
+      "refId": "31",
+      "folio": "112r",
+      "line": "Line 4",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:67.070,53.260,4.320,5.900/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:67.070,53.260,4.320,5.900/1200,/0/default.jpg",
+      "lineId": "r_1778846472815"
+    },
+    {
+      "id": "1778846543128",
+      "pattern": "*dd",
+      "variant": "",
+      "refId": "31",
+      "folio": "112r",
+      "line": "Line 4",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:19.570,54.520,4.720,5.230/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:19.570,54.520,4.720,5.230/1200,/0/default.jpg",
+      "lineId": "r_1778846472815"
+    },
+    {
+      "id": "1778846663111",
+      "pattern": "*[udu]",
+      "variant": "",
+      "refId": "52",
+      "folio": "122v",
+      "line": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:28.080,39.720,5.960,3.630/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:28.080,39.720,5.960,3.630/1200,/0/default.jpg",
+      "lineId": "r_1778846638600"
+    },
+    {
+      "id": "1778846686888",
+      "pattern": "[*dL]",
+      "variant": "",
+      "refId": "10+/30-",
+      "folio": "122v",
+      "line": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:43.400,40.880,3.890,4.370/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:43.400,40.880,3.890,4.370/1200,/0/default.jpg",
+      "lineId": "r_1778846638600"
+    },
+    {
+      "id": "1778846695072",
+      "pattern": "[*dL]",
+      "variant": "",
+      "refId": "10+/30-",
+      "folio": "122v",
+      "line": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:74.300,41.880,4.490,3.370/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:74.300,41.880,4.490,3.370/1200,/0/default.jpg",
+      "lineId": "r_1778846638600"
+    },
+    {
+      "id": "1778846718015",
+      "pattern": "*d",
+      "variant": "",
+      "refId": "30",
+      "folio": "122v",
+      "line": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:90.900,39.560,3.980,4.000/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:90.900,39.560,3.980,4.000/1200,/0/default.jpg",
+      "lineId": "r_1778846638600"
+    },
+    {
+      "id": "1778846355944",
+      "pattern": "*[uddL]",
+      "variant": "",
+      "refId": "51+",
+      "folio": "244r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f493/pct:56.790,15.150,5.300,4.450/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f493/pct:56.790,15.150,5.300,4.450/1200,/0/default.jpg",
+      "lineId": "r_1778846320536"
+    },
+    {
+      "id": "1778846374696",
+      "pattern": "*eOu",
+      "variant": "",
+      "refId": "73",
+      "folio": "244r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f493/pct:44.130,15.680,7.010,4.830/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f493/pct:44.130,15.680,7.010,4.830/1200,/0/default.jpg",
+      "lineId": "r_1778846320536"
+    },
+    {
+      "id": "1778846411495",
+      "pattern": "*",
+      "variant": "",
+      "refId": "10",
+      "folio": "244r",
+      "line": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f493/pct:64.560,17.110,4.060,2.870/300,/0/default.jpg",
+      "zoom": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f493/pct:64.560,17.110,4.060,2.870/1200,/0/default.jpg",
+      "lineId": "r_1778846320536"
+    }
+  ],
+  "lines": [
+    {
+      "id": "r_1778846956359",
+      "folio": "7r",
+      "name": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f19/pct:5.457,39.800,82.126,9.220/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778846973862",
+          "points": "72.1,30.15 77.19,30.15 77.19,51.84 72.1,51.84"
+        },
+        {
+          "id": "1778847009014",
+          "points": "56.4,18 62.51,18 62.51,55.86 56.4,55.86"
+        },
+        {
+          "id": "1778847029695",
+          "points": "81.29,37.2 85.19,37.2 85.19,59.44 81.29,59.44"
+        },
+        {
+          "id": "1778847041950",
+          "points": "19.74,42.73 23.14,42.73 23.14,65.94 19.74,65.94"
+        }
+      ]
+    },
+    {
+      "id": "r_1778851164787",
+      "folio": "24v",
+      "name": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f54/pct:16.486,50.910,82.379,10.600/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778851177276",
+          "points": "22.27,16.79 29.76,16.79 29.76,73.58 22.27,73.58"
+        },
+        {
+          "id": "1778851199291",
+          "points": "49.97,26.51 54.21,26.51 54.21,45.85 49.97,45.85"
+        },
+        {
+          "id": "1778851219235",
+          "points": "87.13,46.51 92.93,46.51 92.93,75.57 87.13,75.57"
+        },
+        {
+          "id": "1778851238179",
+          "points": "31.03,19.43 34.01,19.43 34.01,38.11 31.03,38.11"
+        }
+      ]
+    },
+    {
+      "id": "r_1778850906708",
+      "folio": "25r",
+      "name": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:4.264,34.620,82.412,9.830/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778850923844",
+          "points": "25.49,22.48 30.1,22.48 30.1,55.24 25.49,55.24"
+        },
+        {
+          "id": "1778850937108",
+          "points": "30.85,35.71 34.87,35.71 34.87,65.01 30.85,65.01"
+        },
+        {
+          "id": "1778850951163",
+          "points": "50.36,42.73 54.83,42.73 54.83,69.18 50.36,69.18"
+        },
+        {
+          "id": "1778850965444",
+          "points": "55.73,21.77 60.35,21.77 60.35,56.56 55.73,56.56"
+        },
+        {
+          "id": "1778850982013",
+          "points": "77.33,12.11 80.61,12.11 80.61,34.38 77.33,34.38"
+        }
+      ]
+    },
+    {
+      "id": "r_1778851577922",
+      "folio": "25r",
+      "name": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f55/pct:4.342,41.930,83.116,10.670/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778851597906",
+          "points": "37.98,29.15 43.7,29.15 43.7,59.33 37.98,59.33"
+        },
+        {
+          "id": "1778851612018",
+          "points": "16.6,35.99 21.75,35.99 21.75,66.54 16.6,66.54"
+        },
+        {
+          "id": "1778851627113",
+          "points": "10.33,37.39 14.03,37.39 14.03,55.86 10.33,55.86"
+        },
+        {
+          "id": "1778851641242",
+          "points": "54.33,11.15 59.25,11.15 59.25,57.36 54.33,57.36"
+        }
+      ]
+    },
+    {
+      "id": "r_1778847865165",
+      "folio": "50r",
+      "name": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f105/pct:16.864,36.890,70.312,9.890/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778847887372",
+          "points": "27.83,32.15 32.65,32.15 32.65,57.94 27.83,57.94"
+        },
+        {
+          "id": "1778847908036",
+          "points": "21.47,20.42 27.32,20.42 27.32,45.1 21.47,45.1"
+        }
+      ]
+    },
+    {
+      "id": "r_1778851768098",
+      "folio": "60r",
+      "name": "Line 4",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f125/pct:7.343,31.020,67.694,11.670/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778851793298",
+          "points": "36.38,23.39 44.52,23.39 44.52,53.64 36.38,53.64"
+        }
+      ]
+    },
+    {
+      "id": "r_1778847224830",
+      "folio": "84r",
+      "name": "Line 6",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f173/pct:5.146,55.950,79.519,9.770/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778847243086",
+          "points": "5.66,16.68 10.22,16.68 10.22,61.41 5.66,61.41"
+        },
+        {
+          "id": "1778847260574",
+          "points": "72.14,41.04 77.33,41.04 77.33,61.41 72.14,61.41"
+        },
+        {
+          "id": "1778847278382",
+          "points": "45.74,49.74 50.72,49.74 50.72,65.4 45.74,65.4"
+        }
+      ]
+    },
+    {
+      "id": "r_1778852090097",
+      "folio": "84v",
+      "name": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f174/pct:14.882,23.260,81.356,10.470/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778852110392",
+          "points": "37.08,38.01 41.86,38.01 41.86,66.28 37.08,66.28"
+        },
+        {
+          "id": "1778852120425",
+          "points": "67.4,15.57 72.76,15.57 72.76,35.34 67.4,35.34"
+        },
+        {
+          "id": "1778852143888",
+          "points": "33.7,35.34 37.66,35.34 37.66,58.26 33.7,58.26"
+        }
+      ]
+    },
+    {
+      "id": "r_1778850729517",
+      "folio": "85r",
+      "name": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f175/pct:7.237,15.350,80.586,10.830/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778850746908",
+          "points": "50.11,19.02 53.42,19.02 53.42,26.69 50.11,26.69"
+        },
+        {
+          "id": "1778850760556",
+          "points": "54.64,12.19 57.95,12.19 57.95,22.16 54.64,22.16"
+        },
+        {
+          "id": "1778850768668",
+          "points": "37.29,24.84 42.26,24.84 42.26,41.64 37.29,41.64"
+        },
+        {
+          "id": "1778850777924",
+          "points": "57.69,22.53 61.7,22.53 61.7,38.6 57.69,38.6"
+        },
+        {
+          "id": "1778850813988",
+          "points": "63.8,29.82 67.46,29.82 67.46,55.12 63.8,55.12"
+        }
+      ]
+    },
+    {
+      "id": "r_1778852248008",
+      "folio": "85v",
+      "name": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f176/pct:17.988,39.940,76.153,10.040/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778852264600",
+          "points": "60.17,45.92 64.52,45.92 64.52,69.62 60.17,69.62"
+        },
+        {
+          "id": "1778852276344",
+          "points": "83.36,48.8 89.06,48.8 89.06,68.13 83.36,68.13"
+        }
+      ]
+    },
+    {
+      "id": "r_1778848054748",
+      "folio": "87r",
+      "name": "Line 1",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f179/pct:6.056,62.880,77.539,11.030/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778848074428",
+          "points": "86.45,41.43 91.25,41.43 91.25,61.2 86.45,61.2"
+        },
+        {
+          "id": "1778848094827",
+          "points": "62.89,45.78 67.24,45.78 67.24,76.16 62.89,76.16"
+        },
+        {
+          "id": "1778848106468",
+          "points": "58.44,15.32 62.66,15.32 62.66,46.24 58.44,46.24"
+        },
+        {
+          "id": "1778848144931",
+          "points": "5.37,16.32 13.46,16.32 13.46,60.74 5.37,60.74"
+        },
+        {
+          "id": "1778848159219",
+          "points": "18.49,30.28 23.18,30.28 23.18,50.05 18.49,50.05"
+        },
+        {
+          "id": "1778848179468",
+          "points": "68.87,28.38 76.14,28.38 76.14,76.16 68.87,76.16"
+        }
+      ]
+    },
+    {
+      "id": "r_1778851356259",
+      "folio": "92v",
+      "name": "Line 3",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f190/pct:16.345,32.060,83.061,11.130/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778851385491",
+          "points": "73.88,20.22 76.99,20.22 76.99,49.87 73.88,49.87"
+        },
+        {
+          "id": "1778851401938",
+          "points": "69.06,40.7 73.09,40.7 73.09,63.16 69.06,63.16"
+        },
+        {
+          "id": "1778851413715",
+          "points": "46.91,20.66 53.57,20.66 53.57,64.24 46.91,64.24"
+        },
+        {
+          "id": "1778851445498",
+          "points": "18.21,30.46 24.99,30.46 24.99,66.22 18.21,66.22"
+        }
+      ]
+    },
+    {
+      "id": "r_1778846804319",
+      "folio": "111v",
+      "name": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f228/pct:22.605,13.030,77.395,9.920/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778846824095",
+          "points": "12.76,15.12 17.31,15.12 17.31,45.77 12.76,45.77"
+        },
+        {
+          "id": "1778846836975",
+          "points": "6.47,12.6 11.01,12.6 11.01,36.9 6.47,36.9"
+        },
+        {
+          "id": "1778846859727",
+          "points": "92.03,52.72 96.36,52.72 96.36,65.02 92.03,65.02"
+        },
+        {
+          "id": "1778846874494",
+          "points": "80.22,35.89 84.22,35.89 84.22,53.23 80.22,53.23"
+        }
+      ]
+    },
+    {
+      "id": "r_1778846472815",
+      "folio": "112r",
+      "name": "Line 4",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f229/pct:1.482,50.670,79.365,10.900/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778846493649",
+          "points": "51.12,11.01 59.38,11.01 59.38,32.94 51.12,32.94"
+        },
+        {
+          "id": "1778846509423",
+          "points": "68.28,17.61 73.98,17.61 73.98,37.89 68.28,37.89"
+        },
+        {
+          "id": "1778846526888",
+          "points": "83.9,32.94 86.82,32.94 86.82,68.72 83.9,68.72"
+        },
+        {
+          "id": "1778846543128",
+          "points": "24.05,44.5 27.48,44.5 27.48,74.13 24.05,74.13"
+        }
+      ]
+    },
+    {
+      "id": "r_1778846638600",
+      "folio": "122v",
+      "name": "Line 5",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f250/pct:22.980,38.500,76.780,7.870/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778846663111",
+          "points": "7.94,28.21 13.1,28.21 13.1,48.92 7.94,48.92"
+        },
+        {
+          "id": "1778846686888",
+          "points": "27.9,42.95 30.36,42.95 30.36,73.06 27.9,73.06"
+        },
+        {
+          "id": "1778846695072",
+          "points": "68.14,55.65 71.39,55.65 71.39,73.06 68.14,73.06"
+        },
+        {
+          "id": "1778846718015",
+          "points": "89.76,26.18 92.34,26.18 92.34,51.59 89.76,51.59"
+        }
+      ]
+    },
+    {
+      "id": "r_1778846320536",
+      "folio": "244r",
+      "name": "Line 2",
+      "image": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b8432279k/f493/pct:5.001,13.830,82.049,9.480/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1778846355944",
+          "points": "64.34,24.47 68.36,24.47 68.36,50.32 64.34,50.32"
+        },
+        {
+          "id": "1778846374696",
+          "points": "48.91,30.06 55.02,30.06 55.02,59.92 48.91,59.92"
+        },
+        {
+          "id": "1778846411495",
+          "points": "73.81,45.15 76.32,45.15 76.32,54.32 73.81,54.32"
+        }
+      ]
+    }
+  ]
+}

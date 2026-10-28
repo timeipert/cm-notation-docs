@@ -1,0 +1,218 @@
+{
+  "format": "neume-docs",
+  "version": 1,
+  "generated": "2026-10-28",
+  "info": {
+    "title": "Finalised notation documentations",
+    "description": "Neume documentations of 19 manuscripts (pattern tables and snippet crops on IIIF pages), converted on 2026-10-28 from the editors manuscript backups in the folder \"0_Finalisierte Notationsdokumentationen\". Authors, licence and DOI are not yet filled in.",
+    "authors": [],
+    "publisher": "",
+    "license": "",
+    "doi": "",
+    "preferredCitation": "",
+    "url": "",
+    "year": ""
+  },
+  "columns": [],
+  "signs": {
+    "V": {
+      "viewBox": "0 0 10.788614 9.9038343",
+      "d": "m 4.370266,9.936426 c -2.283304,0 -4.33827799,-1.5412315 -4.33827799,-4.0814075 0,-2.825589 3.08246099,-5.82242705 6.39325299,-5.82242705 2.911213,0 4.395361,1.94081005 4.395361,3.99578405 0,3.367874 -3.253709,5.9080505 -6.450336,5.9080505 z",
+      "label": "Virga",
+      "abbrev": "v"
+    }
+  },
+  "discriminateSigns": true,
+  "manuscripts": [
+    {
+      "id": "Aa 13",
+      "source": "Aa 13",
+      "name": "Aa 13",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Aa_13.json",
+      "patterns": 37,
+      "snippets": 43
+    },
+    {
+      "id": "Ba 12",
+      "source": "Ba 12",
+      "name": "Ba 12",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Ba_12.json",
+      "patterns": 13,
+      "snippets": 18
+    },
+    {
+      "id": "Be 40078",
+      "source": "Be 40078",
+      "name": "Be 40078",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Be_40078.json",
+      "patterns": 22,
+      "snippets": 30
+    },
+    {
+      "id": "Ben 34",
+      "source": "Ben 34",
+      "name": "Ben 34",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Ben_34.json",
+      "patterns": 37,
+      "snippets": 93
+    },
+    {
+      "id": "Ful 62",
+      "source": "Ful 62",
+      "name": "Ful 62",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Ful_62.json",
+      "patterns": 25,
+      "snippets": 47
+    },
+    {
+      "id": "Gr 807",
+      "source": "Gr 807",
+      "name": "Gr 807",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Gr_807.json",
+      "patterns": 30,
+      "snippets": 21
+    },
+    {
+      "id": "Mü 5539",
+      "source": "Mü 5539",
+      "name": "Mü 5539",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/M_5539.json",
+      "patterns": 10,
+      "snippets": 18
+    },
+    {
+      "id": "Nau I",
+      "source": "Nau I",
+      "name": "Nau I",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Nau_I.json",
+      "patterns": 22,
+      "snippets": 29
+    },
+    {
+      "id": "Ox 340",
+      "source": "Ox 340",
+      "name": "Ox 340",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Ox_340.json",
+      "patterns": 18,
+      "snippets": 22
+    },
+    {
+      "id": "Pa 833",
+      "source": "Pa 833",
+      "name": "Pa 833",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_833.json",
+      "patterns": 20,
+      "snippets": 42
+    },
+    {
+      "id": "Pa 903",
+      "source": "Pa 903",
+      "name": "Pa 903",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_903.json",
+      "patterns": 28,
+      "snippets": 54
+    },
+    {
+      "id": "Pa 1107",
+      "source": "Pa 1107",
+      "name": "Pa 1107",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_1107.json",
+      "patterns": 17,
+      "snippets": 21
+    },
+    {
+      "id": "Pa 1118",
+      "source": "Pa 1118",
+      "name": "Pa 1118",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_1118.json",
+      "patterns": 29,
+      "snippets": 56
+    },
+    {
+      "id": "Pa 1119",
+      "source": "Pa 1119",
+      "name": "Pa 1119",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_1119.json",
+      "patterns": 28,
+      "snippets": 58
+    },
+    {
+      "id": "Pa 1138",
+      "source": "Pa 1138",
+      "name": "Pa 1138",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_1138.json",
+      "patterns": 22,
+      "snippets": 41
+    },
+    {
+      "id": "Pa 1338",
+      "source": "Pa 1338",
+      "name": "Pa 1338",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_1338.json",
+      "patterns": 22,
+      "snippets": 42
+    },
+    {
+      "id": "Pa 1871",
+      "source": "Pa 1871",
+      "name": "Pa 1871",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_1871.json",
+      "patterns": 30,
+      "snippets": 63
+    },
+    {
+      "id": "Pa 17328",
+      "source": "Pa 17328",
+      "name": "Pa 17328",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/Pa_17328.json",
+      "patterns": 13,
+      "snippets": 27
+    },
+    {
+      "id": "Wü 165",
+      "source": "Wü 165",
+      "name": "Wü 165",
+      "kind": "iiif",
+      "meta": {},
+      "file": "data/W_165.json",
+      "patterns": 34,
+      "snippets": 41
+    }
+  ]
+}

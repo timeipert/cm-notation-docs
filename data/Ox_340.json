@@ -1,0 +1,531 @@
+{
+  "id": "Ox 340",
+  "source": "Ox 340",
+  "name": "Ox 340",
+  "notes": "",
+  "kind": "iiif",
+  "rows": [
+    {
+      "pattern": "*",
+      "refId": "10",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*e",
+      "refId": "11",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*d]",
+      "refId": "20",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*du]",
+      "refId": "21",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*dud]",
+      "refId": "22",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*dd",
+      "refId": "30",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*ddu",
+      "refId": "31",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*u]",
+      "refId": "40",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*ud]",
+      "refId": "41",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*udu]",
+      "refId": "42",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*udd]",
+      "refId": "43",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*u]dd",
+      "refId": "44",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*uu]",
+      "refId": "45",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*uud]",
+      "refId": "46",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*uuud]",
+      "refId": "47",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*u]u",
+      "refId": "48",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*LD",
+      "refId": "10+/20-",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "*LA",
+      "refId": "10+/40-",
+      "notes": "",
+      "tier": "expanded"
+    }
+  ],
+  "snippets": [
+    {
+      "id": "i_204cbd94-4996-4d32-a876-297b91f6fb2d",
+      "pattern": "[*d]",
+      "variant": "",
+      "refId": "20",
+      "folio": "18r",
+      "line": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:16.960,66.320,3.790,3.760/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:16.960,66.320,3.790,3.760/1200,/0/default.jpg",
+      "lineId": "r_1788384196457"
+    },
+    {
+      "id": "i_b125d110-2172-422f-ae27-247b94d3d4c8",
+      "pattern": "*",
+      "variant": "a",
+      "refId": "10a",
+      "folio": "18r",
+      "line": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:28.010,66.100,3.610,4.070/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:28.010,66.100,3.610,4.070/1200,/0/default.jpg",
+      "lineId": "r_1788384196457"
+    },
+    {
+      "id": "i_7fd4a922-7c77-40bd-839a-29d69336fb7a",
+      "pattern": "[*du]",
+      "variant": "a",
+      "refId": "21a",
+      "folio": "18r",
+      "line": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:45.780,65.730,4.890,4.170/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:45.780,65.730,4.890,4.170/1200,/0/default.jpg",
+      "lineId": "r_1788384196457"
+    },
+    {
+      "id": "1788384676397",
+      "pattern": "*ddu",
+      "variant": "",
+      "refId": "31",
+      "folio": "18v",
+      "line": "Line 2",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:45.780,10.470,5.320,4.460/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:45.780,10.470,5.320,4.460/1200,/0/default.jpg",
+      "lineId": "r_1788384645775"
+    },
+    {
+      "id": "1788384762777",
+      "pattern": "*",
+      "variant": "b",
+      "refId": "10b",
+      "folio": "18v",
+      "line": "Line 2",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:62.820,11.980,3.520,2.890/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:62.820,11.980,3.520,2.890/1200,/0/default.jpg",
+      "lineId": "r_1788384645775"
+    },
+    {
+      "id": "1788384830101",
+      "pattern": "[*udu]",
+      "variant": "",
+      "refId": "42",
+      "folio": "18v",
+      "line": "Line 2",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:78.320,11.320,4.660,4.020/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:78.320,11.320,4.660,4.020/1200,/0/default.jpg",
+      "lineId": "r_1788384645775"
+    },
+    {
+      "id": "1788384859749",
+      "pattern": "[*uuud]",
+      "variant": "",
+      "refId": "47",
+      "folio": "18v",
+      "line": "Line 5",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:59.480,21.440,4.750,3.950/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:59.480,21.440,4.750,3.950/1200,/0/default.jpg",
+      "lineId": "r_1788384726669"
+    },
+    {
+      "id": "1788384956987",
+      "pattern": "[*u]dd",
+      "variant": "a",
+      "refId": "44a",
+      "folio": "18v",
+      "line": "Line 7",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:35.520,29.030,5.130,4.390/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:35.520,29.030,5.130,4.390/1200,/0/default.jpg",
+      "lineId": "r_1788384913860"
+    },
+    {
+      "id": "1788384995096",
+      "pattern": "[*du]",
+      "variant": "c",
+      "refId": "21c",
+      "folio": "18v",
+      "line": "Line 7",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:54.560,29.450,4.240,4.550/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:54.560,29.450,4.240,4.550/1200,/0/default.jpg",
+      "lineId": "r_1788384913860"
+    },
+    {
+      "id": "1788385074185",
+      "pattern": "[*udd]",
+      "variant": "",
+      "refId": "43",
+      "folio": "18v",
+      "line": "Line 7",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:57.150,29.030,4.820,4.790/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:57.150,29.030,4.820,4.790/1200,/0/default.jpg",
+      "lineId": "r_1788384913860"
+    },
+    {
+      "id": "1788385106414",
+      "pattern": "[*u]u",
+      "variant": "",
+      "refId": "48",
+      "folio": "18v",
+      "line": "Line 7",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:68.980,30.140,3.650,4.360/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:68.980,30.140,3.650,4.360/1200,/0/default.jpg",
+      "lineId": "r_1788384913860"
+    },
+    {
+      "id": "i_a46063e0-acac-419d-9219-469a67ceb822",
+      "pattern": "[*uu]",
+      "variant": "b",
+      "refId": "45b",
+      "folio": "19v",
+      "line": "Line 9",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:48.570,36.900,4.380,3.830/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:48.570,36.900,4.380,3.830/1200,/0/default.jpg",
+      "lineId": "r_1788385211579"
+    },
+    {
+      "id": "i_8e102c2e-e270-4ea5-b4f3-2acb2bc8171f",
+      "pattern": "[*dud]",
+      "variant": "",
+      "refId": "22",
+      "folio": "19v",
+      "line": "Line 10",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:41.120,40.900,5.010,4.410/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:41.120,40.900,5.010,4.410/1200,/0/default.jpg",
+      "lineId": "r_c3fe7904-ff1d-4071-80a0-6aac2eb56d6f"
+    },
+    {
+      "id": "i_ce0147d6-34ec-41b4-9488-81e6d63fdde0",
+      "pattern": "*dd",
+      "variant": "",
+      "refId": "30",
+      "folio": "19v",
+      "line": "Line 11",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:69.860,45.870,4.740,3.920/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:69.860,45.870,4.740,3.920/1200,/0/default.jpg",
+      "lineId": "r_6edc7e5c-d5bb-4e8b-aae1-d0a325fa1199"
+    },
+    {
+      "id": "i_a2a4b694-942c-41e0-a9ea-9e24894dd337",
+      "pattern": "[*uu]",
+      "variant": "a",
+      "refId": "45a",
+      "folio": "19v",
+      "line": "Line 11",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:77.740,45.900,3.900,4.120/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:77.740,45.900,3.900,4.120/1200,/0/default.jpg",
+      "lineId": "r_6edc7e5c-d5bb-4e8b-aae1-d0a325fa1199"
+    },
+    {
+      "id": "i_1cc45637-7d2c-482a-9306-01cf9497faf7",
+      "pattern": "*LD",
+      "variant": "",
+      "refId": "10+/20-",
+      "folio": "19v",
+      "line": "Line 14",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:40.240,57.320,3.700,4.250/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:40.240,57.320,3.700,4.250/1200,/0/default.jpg",
+      "lineId": "r_b6d71d3b-6a3f-446d-b0f6-0a8440deed72"
+    },
+    {
+      "id": "i_e0329ad4-5a70-49c6-bfdb-e84781acc2d7",
+      "pattern": "*LA",
+      "variant": "",
+      "refId": "10+/40-",
+      "folio": "19v",
+      "line": "Line 14",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:64.990,57.790,3.550,3.840/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:64.990,57.790,3.550,3.840/1200,/0/default.jpg",
+      "lineId": "r_b6d71d3b-6a3f-446d-b0f6-0a8440deed72"
+    },
+    {
+      "id": "1788385835770",
+      "pattern": "[*du]",
+      "variant": "b",
+      "refId": "21b",
+      "folio": "20r",
+      "line": "Line 3",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:19.660,15.130,4.840,3.630/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:19.660,15.130,4.840,3.630/1200,/0/default.jpg",
+      "lineId": "r_1788385768740"
+    },
+    {
+      "id": "1788385870152",
+      "pattern": "*e",
+      "variant": "",
+      "refId": "11",
+      "folio": "20r",
+      "line": "Line 3",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:41.430,15.380,4.340,3.530/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:41.430,15.380,4.340,3.530/1200,/0/default.jpg",
+      "lineId": "r_1788385768740"
+    },
+    {
+      "id": "i_55ed7827-67e8-40e4-a21b-b8c878944e12",
+      "pattern": "[*uud]",
+      "variant": "",
+      "refId": "46",
+      "folio": "23r",
+      "line": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:34.280,65.040,5.180,4.760/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:34.280,65.040,5.180,4.760/1200,/0/default.jpg",
+      "lineId": "r_1788385973023"
+    },
+    {
+      "id": "i_471baaed-46f7-4d59-b82f-9c36cc5fd385",
+      "pattern": "[*u]",
+      "variant": "b",
+      "refId": "40b",
+      "folio": "23r",
+      "line": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:47.330,65.160,4.270,3.970/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:47.330,65.160,4.270,3.970/1200,/0/default.jpg",
+      "lineId": "r_1788385973023"
+    },
+    {
+      "id": "i_a43fb7b3-aa33-4853-afda-bd659402a7c2",
+      "pattern": "[*u]dd",
+      "variant": "b",
+      "refId": "44b",
+      "folio": "23r",
+      "line": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:56.990,64.490,5.520,4.710/300,/0/default.jpg",
+      "zoom": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:56.990,64.490,5.520,4.710/1200,/0/default.jpg",
+      "lineId": "r_1788385973023"
+    }
+  ],
+  "lines": [
+    {
+      "id": "r_1788384196457",
+      "folio": "18r",
+      "name": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/ef5636bc-0595-448e-8664-8cfc8096917a/pct:5.433,65.090,67.034,6.600/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_204cbd94-4996-4d32-a876-297b91f6fb2d",
+          "points": "18.69,33.79 21.36,33.79 21.36,60.45 18.69,60.45"
+        },
+        {
+          "id": "i_b125d110-2172-422f-ae27-247b94d3d4c8",
+          "points": "35.17,30.45 37.57,30.45 37.57,61.82 35.17,61.82"
+        },
+        {
+          "id": "i_7fd4a922-7c77-40bd-839a-29d69336fb7a",
+          "points": "61.68,24.85 65.99,24.85 65.99,57.73 61.68,57.73"
+        }
+      ]
+    },
+    {
+      "id": "r_1788384645775",
+      "folio": "18v",
+      "name": "Line 2",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:32.389,9.840,63.393,6.640/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788384676397",
+          "points": "22.7,24.55 27.94,24.55 27.94,61.6 22.7,61.6"
+        },
+        {
+          "id": "1788384762777",
+          "points": "49.58,47.29 51.98,47.29 51.98,60.69 49.58,60.69"
+        },
+        {
+          "id": "1788384830101",
+          "points": "74.03,37.35 78.23,37.35 78.23,67.77 74.03,67.77"
+        }
+      ]
+    },
+    {
+      "id": "r_1788384726669",
+      "folio": "18v",
+      "name": "Line 5",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:31.297,21.060,64.977,6.830/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788384859749",
+          "points": "44.91,20.2 49.15,20.2 49.15,48.76 44.91,48.76"
+        }
+      ]
+    },
+    {
+      "id": "r_1788384913860",
+      "folio": "18v",
+      "name": "Line 7",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/53b62671-14f6-4dc9-a1a0-9b5b291efb7f/pct:31.119,28.910,64.702,7.010/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788384956987",
+          "points": "8.35,15.98 13.19,15.98 13.19,50.07 8.35,50.07"
+        },
+        {
+          "id": "1788384995096",
+          "points": "37.77,21.97 41.24,21.97 41.24,58.35 37.77,58.35"
+        },
+        {
+          "id": "1788385074185",
+          "points": "41.78,15.98 46.14,15.98 46.14,55.78 41.78,55.78"
+        },
+        {
+          "id": "1788385106414",
+          "points": "60.06,31.81 62.61,31.81 62.61,65.48 60.06,65.48"
+        }
+      ]
+    },
+    {
+      "id": "r_1788385211579",
+      "folio": "19v",
+      "name": "Line 9",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:30.532,36.480,63.767,7.260/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_a46063e0-acac-419d-9219-469a67ceb822",
+          "points": "29.86,19.56 33.59,19.56 33.59,44.77 29.86,44.77"
+        }
+      ]
+    },
+    {
+      "id": "r_c3fe7904-ff1d-4071-80a0-6aac2eb56d6f",
+      "folio": "19v",
+      "name": "Line 10",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:30.496,40.690,63.877,6.230/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_8e102c2e-e270-4ea5-b4f3-2acb2bc8171f",
+          "points": "18.2,19.42 22.91,19.42 22.91,58.11 18.2,58.11"
+        }
+      ]
+    },
+    {
+      "id": "r_6edc7e5c-d5bb-4e8b-aae1-d0a325fa1199",
+      "folio": "19v",
+      "name": "Line 11",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:30.469,44.430,63.811,6.750/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_ce0147d6-34ec-41b4-9488-81e6d63fdde0",
+          "points": "63.3,36.15 67.59,36.15 67.59,64.59 63.3,64.59"
+        },
+        {
+          "id": "i_a2a4b694-942c-41e0-a9ea-9e24894dd337",
+          "points": "75.65,36.59 78.62,36.59 78.62,68 75.65,68"
+        }
+      ]
+    },
+    {
+      "id": "r_b6d71d3b-6a3f-446d-b0f6-0a8440deed72",
+      "folio": "19v",
+      "name": "Line 14",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/f866a47f-fb96-4fb0-83fb-92d927f2d787/pct:30.779,56.370,63.371,6.670/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_1cc45637-7d2c-482a-9306-01cf9497faf7",
+          "points": "16.51,29.24 19.19,29.24 19.19,62.97 16.51,62.97"
+        },
+        {
+          "id": "i_e0329ad4-5a70-49c6-bfdb-e84781acc2d7",
+          "points": "55.56,36.28 58.01,36.28 58.01,63.87 55.56,63.87"
+        }
+      ]
+    },
+    {
+      "id": "r_1788385768740",
+      "folio": "20r",
+      "name": "Line 3",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/09428006-50f5-4cff-8187-d6c7b37e73d2/pct:4.086,14.750,66.528,6.360/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "1788385835770",
+          "points": "24.91,21.7 29.18,21.7 29.18,47.33 24.91,47.33"
+        },
+        {
+          "id": "1788385870152",
+          "points": "57.64,25.63 61.15,25.63 61.15,49.69 57.64,49.69"
+        }
+      ]
+    },
+    {
+      "id": "r_1788385973023",
+      "folio": "23r",
+      "name": "Line 16",
+      "image": "https://iiif.bodleian.ox.ac.uk/iiif/image/183a6f79-5a01-4ece-a866-8781548d01a0/pct:4.728,64.300,68.035,7.000/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_55ed7827-67e8-40e4-a21b-b8c878944e12",
+          "points": "44.91,24.86 49.58,24.86 49.58,64.29 44.91,64.29"
+        },
+        {
+          "id": "i_471baaed-46f7-4d59-b82f-9c36cc5fd385",
+          "points": "64.09,26.57 67.42,26.57 67.42,54.71 64.09,54.71"
+        },
+        {
+          "id": "i_a43fb7b3-aa33-4853-afda-bd659402a7c2",
+          "points": "78.29,17 83.46,17 83.46,55.71 78.29,55.71"
+        }
+      ]
+    }
+  ]
+}

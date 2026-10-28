@@ -1,0 +1,409 @@
+{
+  "id": "Ba 12",
+  "source": "Ba 12",
+  "name": "Ba 12",
+  "notes": "",
+  "kind": "iiif",
+  "rows": [
+    {
+      "pattern": "*",
+      "refId": "10",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*d]",
+      "refId": "20",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*dd",
+      "refId": "30",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*u]",
+      "refId": "40",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*ud]",
+      "refId": "41",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "[*udu]",
+      "refId": "42",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*u]dd",
+      "refId": "43",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*uu",
+      "refId": "50",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*u[ud]",
+      "refId": "51",
+      "notes": "",
+      "tier": "standard"
+    },
+    {
+      "pattern": "*SeS",
+      "refId": "61",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*dL]",
+      "refId": "10+/20-",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*ddL]",
+      "refId": "20+",
+      "notes": "",
+      "tier": "expanded"
+    },
+    {
+      "pattern": "[*udL]",
+      "refId": "40+",
+      "notes": "",
+      "tier": "expanded"
+    }
+  ],
+  "snippets": [
+    {
+      "id": "i_00a67246-b254-4d2b-82e1-ed0c497bc834",
+      "pattern": "[*d]",
+      "variant": "a",
+      "refId": "20a",
+      "folio": "46r",
+      "line": "Line 13",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:43.100,74.690,4.600,4.320/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:43.100,74.690,4.600,4.320/1200,/0/default.jpg",
+      "lineId": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb"
+    },
+    {
+      "id": "i_c9757a95-50bf-48b1-a342-95be15ebd9c6",
+      "pattern": "*dd",
+      "variant": "",
+      "refId": "30",
+      "folio": "46r",
+      "line": "Line 13",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:56.940,74.900,4.310,4.490/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:56.940,74.900,4.310,4.490/1200,/0/default.jpg",
+      "lineId": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb"
+    },
+    {
+      "id": "i_2d1e09ba-41eb-4256-afde-4da2bbfa91a1",
+      "pattern": "[*udu]",
+      "variant": "",
+      "refId": "42",
+      "folio": "46v",
+      "line": "Line 1",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:86.100,12.260,5.710,4.520/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:86.100,12.260,5.710,4.520/1200,/0/default.jpg",
+      "lineId": "r_e66412a3-417c-42be-8d08-c79caed4065e"
+    },
+    {
+      "id": "i_a8dc01b4-942a-451f-9e91-d78703e7448f",
+      "pattern": "[*d]",
+      "variant": "b",
+      "refId": "20b",
+      "folio": "46v",
+      "line": "Line 2",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:48.050,17.070,4.760,4.140/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:48.050,17.070,4.760,4.140/1200,/0/default.jpg",
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+    },
+    {
+      "id": "i_b62e7348-e1c6-49d7-9789-c1fa80bc7fca",
+      "pattern": "[*u]",
+      "variant": "",
+      "refId": "40",
+      "folio": "46v",
+      "line": "Line 2",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:50.810,16.120,5.200,4.950/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:50.810,16.120,5.200,4.950/1200,/0/default.jpg",
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+    },
+    {
+      "id": "i_1908ca4f-72d8-4a4a-89b8-8a399b31cf9c",
+      "pattern": "[*dL]",
+      "variant": "",
+      "refId": "10+/20-",
+      "folio": "46v",
+      "line": "Line 2",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:56.950,16.150,4.830,4.740/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:56.950,16.150,4.830,4.740/1200,/0/default.jpg",
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+    },
+    {
+      "id": "i_2a51353e-585a-405c-8a53-f3177617c857",
+      "pattern": "*",
+      "variant": "b",
+      "refId": "10b",
+      "folio": "46v",
+      "line": "Line 2",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.010,17.720,4.300,3.720/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.010,17.720,4.300,3.720/1200,/0/default.jpg",
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+    },
+    {
+      "id": "i_acf8cc7f-515a-45f4-a39b-3832589cf9f2",
+      "pattern": "*u[ud]",
+      "variant": "",
+      "refId": "51",
+      "folio": "46v",
+      "line": "Line 2",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:63.910,16.070,6.020,4.710/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:63.910,16.070,6.020,4.710/1200,/0/default.jpg",
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+    },
+    {
+      "id": "i_e6615c1a-c004-4bfe-ae72-45404d33a3d5",
+      "pattern": "[*u]",
+      "variant": "",
+      "refId": "40",
+      "folio": "46v",
+      "line": "Line 2",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:82.780,16.300,5.350,4.620/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:82.780,16.300,5.350,4.620/1200,/0/default.jpg",
+      "lineId": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb"
+    },
+    {
+      "id": "i_8694e61c-adfa-4a64-8d62-4996b8e27f94",
+      "pattern": "*uu",
+      "variant": "",
+      "refId": "50",
+      "folio": "46v",
+      "line": "Line 4",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:55.580,27.680,6.020,5.460/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:55.580,27.680,6.020,5.460/1200,/0/default.jpg",
+      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc"
+    },
+    {
+      "id": "i_f7a52618-8300-466d-8d24-9fd9314cbd0d",
+      "pattern": "[*ud]",
+      "variant": "",
+      "refId": "41",
+      "folio": "46v",
+      "line": "Line 4",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.920,28.440,5.390,4.380/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:61.920,28.440,5.390,4.380/1200,/0/default.jpg",
+      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc"
+    },
+    {
+      "id": "i_664aedce-b085-430a-9ab9-15be56a0921f",
+      "pattern": "*SeS",
+      "variant": "",
+      "refId": "61",
+      "folio": "46v",
+      "line": "Line 4",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:73.830,28.350,5.020,3.680/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:73.830,28.350,5.020,3.680/1200,/0/default.jpg",
+      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc"
+    },
+    {
+      "id": "i_33bae1ab-7e5d-43e9-859d-c0c7d0819ee7",
+      "pattern": "[*u]dd",
+      "variant": "",
+      "refId": "43",
+      "folio": "46v",
+      "line": "Line 4",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:81.450,27.900,6.220,5.180/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:81.450,27.900,6.220,5.180/1200,/0/default.jpg",
+      "lineId": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc"
+    },
+    {
+      "id": "i_17eaf7be-0a95-48da-a2e1-313654cf1d04",
+      "pattern": "[*ddL]",
+      "variant": "",
+      "refId": "20+",
+      "folio": "46v",
+      "line": "Line 6",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:62.690,39.530,4.410,4.960/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:62.690,39.530,4.410,4.960/1200,/0/default.jpg",
+      "lineId": "r_8c809d89-e919-4418-bff3-9a5af34d3d5b"
+    },
+    {
+      "id": "i_889dc683-30c7-43ba-b5b6-dcfb302c33fa",
+      "pattern": "[*ddL]",
+      "variant": "",
+      "refId": "20+",
+      "folio": "46v",
+      "line": "Line 8",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:37.870,49.560,4.970,5.100/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:37.870,49.560,4.970,5.100/1200,/0/default.jpg",
+      "lineId": "r_bd55970f-1af9-4891-bf89-c08eb865a215"
+    },
+    {
+      "id": "i_4a6d0597-7169-4375-8a52-e913cf89bbc2",
+      "pattern": "[*dL]",
+      "variant": "",
+      "refId": "10+/20-",
+      "folio": "46v",
+      "line": "Line 8",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:72.750,51.680,5.210,4.120/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:72.750,51.680,5.210,4.120/1200,/0/default.jpg",
+      "lineId": "r_bd55970f-1af9-4891-bf89-c08eb865a215"
+    },
+    {
+      "id": "i_41977ab9-f98d-4eee-a0a2-c249797104c9",
+      "pattern": "[*udL]",
+      "variant": "",
+      "refId": "40+",
+      "folio": "46v",
+      "line": "Line 8",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:81.650,49.780,5.510,5.480/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:81.650,49.780,5.510,5.480/1200,/0/default.jpg",
+      "lineId": "r_bd55970f-1af9-4891-bf89-c08eb865a215"
+    },
+    {
+      "id": "i_ad4d2642-e2f1-4f6d-8286-d5aeac6b7f3d",
+      "pattern": "*",
+      "variant": "a",
+      "refId": "10a",
+      "folio": "46v",
+      "line": "Line 8",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:89.770,50.410,4.480,5.610/300,/0/default.jpg",
+      "zoom": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:89.770,50.410,4.480,5.610/1200,/0/default.jpg",
+      "lineId": "r_bd55970f-1af9-4891-bf89-c08eb865a215"
+    }
+  ],
+  "lines": [
+    {
+      "id": "r_cc8c1cc8-31ca-41d5-9fe7-bfdfd0385fdb",
+      "folio": "46r",
+      "name": "Line 13",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46r.tif/pct:10.265,74.480,62.810,8.450/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_00a67246-b254-4d2b-82e1-ed0c497bc834",
+          "points": "53.87,14.32 58.01,14.32 58.01,41.78 53.87,41.78"
+        },
+        {
+          "id": "i_c9757a95-50bf-48b1-a342-95be15ebd9c6",
+          "points": "75.9,16.8 79.58,16.8 79.58,46.27 75.9,46.27"
+        }
+      ]
+    },
+    {
+      "id": "r_e66412a3-417c-42be-8d08-c79caed4065e",
+      "folio": "46v",
+      "name": "Line 1",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:32.540,10.470,67.111,8.210/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_2d1e09ba-41eb-4256-afde-4da2bbfa91a1",
+          "points": "81.3,33.98 86.83,33.98 86.83,64.68 81.3,64.68"
+        }
+      ]
+    },
+    {
+      "id": "r_7fa1b1ad-7d66-4d6f-bca3-11926481cecb",
+      "folio": "46v",
+      "name": "Line 2",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:32.483,16.020,67.243,8.030/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_a8dc01b4-942a-451f-9e91-d78703e7448f",
+          "points": "24.64,25.53 28.74,25.53 28.74,52.18 24.64,52.18"
+        },
+        {
+          "id": "i_b62e7348-e1c6-49d7-9789-c1fa80bc7fca",
+          "points": "28.74,13.7 33.5,13.7 33.5,50.44 28.74,50.44"
+        },
+        {
+          "id": "i_1908ca4f-72d8-4a4a-89b8-8a399b31cf9c",
+          "points": "37.87,14.07 42.08,14.07 42.08,48.19 37.87,48.19"
+        },
+        {
+          "id": "i_2a51353e-585a-405c-8a53-f3177617c857",
+          "points": "43.91,33.62 47.33,33.62 47.33,55.04 43.91,55.04"
+        },
+        {
+          "id": "i_acf8cc7f-515a-45f4-a39b-3832589cf9f2",
+          "points": "48.22,13.08 54.2,13.08 54.2,46.82 48.22,46.82"
+        },
+        {
+          "id": "i_e6615c1a-c004-4bfe-ae72-45404d33a3d5",
+          "points": "76.29,15.94 81.27,15.94 81.27,48.57 76.29,48.57"
+        }
+      ]
+    },
+    {
+      "id": "r_113ba4bf-7b71-4110-9f0b-b6186f426efc",
+      "folio": "46v",
+      "name": "Line 4",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:32.201,27.070,67.799,8.500/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_8694e61c-adfa-4a64-8d62-4996b8e27f94",
+          "points": "35.96,18.94 41.89,18.94 41.89,59.65 35.96,59.65"
+        },
+        {
+          "id": "i_f7a52618-8300-466d-8d24-9fd9314cbd0d",
+          "points": "45.31,27.88 50.31,27.88 50.31,55.88 45.31,55.88"
+        },
+        {
+          "id": "i_664aedce-b085-430a-9ab9-15be56a0921f",
+          "points": "62.88,26.82 67.33,26.82 67.33,46.59 62.88,46.59"
+        },
+        {
+          "id": "i_33bae1ab-7e5d-43e9-859d-c0c7d0819ee7",
+          "points": "74.11,21.53 80.34,21.53 80.34,58.94 74.11,58.94"
+        }
+      ]
+    },
+    {
+      "id": "r_8c809d89-e919-4418-bff3-9a5af34d3d5b",
+      "folio": "46v",
+      "name": "Line 6",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:32.148,38.480,67.793,8.120/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_17eaf7be-0a95-48da-a2e1-313654cf1d04",
+          "points": "46.53,25.25 50.08,25.25 50.08,61.7 46.53,61.7"
+        }
+      ]
+    },
+    {
+      "id": "r_bd55970f-1af9-4891-bf89-c08eb865a215",
+      "folio": "46v",
+      "name": "Line 8",
+      "image": "https://iiif.diamm.net/images/D-BAa-Msc-Lit-12/D-BAa-Msc-Lit-12_46v.tif/pct:32.252,49.000,67.705,8.830/1200,/0/default.jpg",
+      "items": [
+        {
+          "id": "i_889dc683-30c7-43ba-b5b6-dcfb302c33fa",
+          "points": "9.77,17.67 14.16,17.67 14.16,52.77 9.77,52.77"
+        },
+        {
+          "id": "i_4a6d0597-7169-4375-8a52-e913cf89bbc2",
+          "points": "61.29,41.68 66.03,41.68 66.03,65.69 61.29,65.69"
+        },
+        {
+          "id": "i_41977ab9-f98d-4eee-a0a2-c249797104c9",
+          "points": "74.44,20.16 79.62,20.16 79.62,59.57 74.44,59.57"
+        },
+        {
+          "id": "i_ad4d2642-e2f1-4f6d-8286-d5aeac6b7f3d",
+          "points": "86.43,27.29 90.09,27.29 90.09,68.18 86.43,68.18"
+        }
+      ]
+    }
+  ]
+}
